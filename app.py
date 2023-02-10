@@ -23,8 +23,6 @@ def list():
 @app.route('/list', methods=['POST']) 
 def listPost(): 
 
-    #print(request.form)
-
     day = request.form.get('day')
     time = request.form.get('time')
 
