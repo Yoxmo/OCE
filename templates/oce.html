@@ -38,58 +38,41 @@
             
          </div>
       </nav>
-      <main role="main" class="container">
-         <div class="jumbotron" style="min-height: 45%;">
-            <h1 style="display: flex; justify-content: center">OSU CLUBS EXTENDED: </h1>
-            <p class="lead" style="display: flex; justify-content: center" > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed. </p>
+      
 
-            <form id="account-submit" action="/list" method="POST">
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 
-               <div class="input-group mb-3">
-                  <input type="text" class="form-control" id="day" name="day" placeholder="Day" value="{{day}}" required>
-               </div>
-               <div class="input-group mb-3">
-                  <input type="text" class="form-control" id="time" name="time" placeholder="Time" value="{{time}}">
-               </div>
-
-               <div class="input-group mb-3">
-               <input type="text" class="form-control" id="filter" name="filter" placeholder="Additonal filters..." value="{{addit}}">
+      <section id="about-section" class="pt-5 pb-5">
+        <div class="container wrapabout">
+            <div class="row" style="margin-left: 0; margin-right: -55px;">
+                <div class="col-lg-6 align-items-center justify-content-left d-flex mb-5 mb-lg-0">
+                    <div class="blockabout">
+                        <div class="blockabout-inner text-center text-sm-start">
+                            <div class="title-big pb-3 mb-3">
+                                <h3>ABOUT ME</h3>
+                            </div>
+                            <p class="description-p text-muted pe-0 pe-lg-0">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quas optio reiciendis deleniti voluptatem facere sequi, quia, est sed dicta aliquid quidem facilis culpa iure perferendis? Dolor ad quia deserunt.
+                            </p>
+                            <p class="description-p text-muted pe-0 pe-lg-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quas optio reiciendis deleniti voluptatem facere.</p>
+                            <div class="sosmed-horizontal pt-3 pb-3">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="#"><i class="fa fa-pinterest"></i></a>
+                            </div>
+                            <a href="#" class="btn rey-btn mt-3">See More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 mt-5 mt-lg-0">
+                    <figure class="potoaboutwrap">
+                        <img src="https://bootdey.com/image/400x700/FF7F50/000000" alt="potoabout">
+                    </figure>
+                </div>
             </div>
+        </div>
+      </section>
 
-               <button class="btn btn-lg btn-primary" style='display: flex; text-align: center ; justify-content: center ; color: white' type="submit">Submit »</button>
-            </form>
-
-         </div>
-         <div class="jumbotron">
-            <div class="flex_container">
-               <div id="main">
-                  <div class="table-responsive-md">
-                     <table class="table">
-                        <thead>
-                           <tr>
-                              <th scope="col"># ID</th>
-                              <th scope="col">Name</th>
-                              <th scope="col">Summary</th>
-                              <th scope="col">Meeting Time</th>
-                           </tr>
-                        </thead>
-                        <tbody>
-                           {% for i in newLoad %}
-                           <tr onclick="window.location='#';">
-                              <th scrope="row" class="d-inline-block text-truncate" style="max-width: 100px;">{{i['Clubs_Link'].replace("https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=", "").replace("&l=ALL&v=list&c=Columbus&page=0", '')}}</th>
-                              <td>{{i['Clubs_Name']}}</td>
-                              <td>{{i['Purpose_Statement']}}</td>
-                              <td>{{i['Meeting_Time_and_Place']}}</td>
-                           </tr>
-                           {% endfor %}
-                        </tbody>
-                     </table>
-                  </div>
-               </div>
-            </div>
-
-         </div>
-      </main>
 
       <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 
