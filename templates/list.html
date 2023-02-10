@@ -75,8 +75,8 @@
                         </thead>
                         <tbody>
                            {% for i in newLoad %}
-                           <tr onclick="window.location='#';">
-                              <th scrope="row" class="d-inline-block text-truncate" style="max-width: 100px;">{{i['Clubs_Link'].replace("https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=", "").replace("&l=ALL&v=list&c=Columbus&page=0", '')}}</th>
+                           <tr>
+                              <th onclick="window.location='#';" scrope="row" class="d-inline-block text-truncate" style="color:purple; max-width: 100px;">{{i['Clubs_Link'].replace("https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=", "").replace("&l=ALL&v=list&c=Columbus&page=0", '')}}</th>
                               <td>{{i['Clubs_Name']}}</td>
                               <td>{{i['Purpose_Statement']}}</td>
                               <td>{{i['Meeting_Time_and_Place']}}</td>
