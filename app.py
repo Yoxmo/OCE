@@ -7,10 +7,6 @@ app = Flask(__name__)
 
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
-
-print(txt[0]['Clubs_Link'])
-
-
 @app.route('/')
 def index():
     randomC = random.choice(txt).get("Clubs_Link")
