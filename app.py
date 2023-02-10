@@ -21,10 +21,20 @@ def list():
 
 @app.route('/view' , methods=['GET'])
 def view():
-    newLoad = []
-    for i in range(10):
-        newLoad.append(random.choice(txt))
-    return render_template('oce.html', newLoad=newLoad)
+    args = request.args.to_dict()
+    if args:
+        link = str(args.get("id"))
+        link = ""
+        if link:
+            for i in txt:
+                if(i['Clubs_Link'] == link):
+                    x = i
+            return render_template('oce.html', newLoad=x)
+        else:
+            return '[*] Error'
+    else:
+        return '[*] Error'
+
 
         
 @app.route('/list', methods=['POST']) 
