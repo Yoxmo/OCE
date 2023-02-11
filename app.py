@@ -23,17 +23,17 @@ def list():
 def view():
     args = request.args.to_dict()
     if args:
-        link = str(args.get("id"))
-        link = ""
+        link = str(args["id"])
+        link = f"https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i={link}&l=ALL&v=list&c=Columbus&page=0"
         if link:
             for i in txt:
                 if(i['Clubs_Link'] == link):
                     x = i
             return render_template('oce.html', newLoad=x)
         else:
-            return '[*] Error'
+            return '[*] Error no arg ID but we do have ' + str(args)
     else:
-        return '[*] Error'
+        return '[*] Error no args'
 
 
         
