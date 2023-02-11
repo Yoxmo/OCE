@@ -64,19 +64,65 @@
 
                                 {% if k == "Purpose_Statement" %}
                                 <tr>
-                                  <th scope="row">{{k.replace("_", " ")}}</th>
-                                  <td>{{v}}</td>
-                                </tr>
-                                {% endif %}
-                                <tr>
-                                    <th scope="row">
-                                                             
-                                        Leaders
-                                    </th>
+                                  <th scope="row">Summary</th>
                                   <td>{{v}}</td>
                                 </tr>
                                 {% endif %}
 
+
+                                {% if k == "Meeting_Time_and_Place" %}
+                                <tr>
+                                  <th scope="row"> Meetings </th>
+                                  <td>{{v}}</td>
+                                </tr>
+                                {% endif %}
+
+
+                                {% if k == "Primary_Leader" %}  
+                                <tr>
+                                <th scope="row">          
+                                    President
+                                    </th>
+                                    <td>
+                                      {{v}}
+                                    </td>
+                                </tr>
+                                {% endif %}
+
+                                {% if k == "Advisor" %}  
+                                <tr>
+                                <th scope="row">          
+                                    Advisor
+                                    </th>
+                                    <td>
+                                      {{v}}
+                                    </td>
+                                </tr>
+                                {% endif %}
+
+
+                                {% if k == "How_does_a_Prospective_Member_Apply" %}  
+                                <tr>
+                                <th scope="row">          
+                                    Application
+                                    </th>
+                                    <td>
+                                      {{v}}
+                                    </td>
+                                </tr>
+                                {% endif %}
+
+
+                                {% if k == "Charge_Dues" %}  
+                                <tr>
+                                <th scope="row">          
+                                    Fees
+                                    </th>
+                                    <td>
+                                      {{v}}
+                                    </td>
+                                </tr>
+                                {% endif %}
 
                               {% endfor %}
                               </tbody>
@@ -84,19 +130,24 @@
                       </p>
                       <p class="description-p text-muted pe-0 pe-lg-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quas optio reiciendis deleniti voluptatem facere.</p>
                       <div class="sosmed-horizontal pt-3 pb-3">
-                          <a href="#"><i class="fa fa-2x fa-facebook" style="color: gray; width: 50;"></i></a>
-                          <a href="#"><i class="fa fa-2x fa-instagram" style="color: gray; width: 50;"></i></a>
-                          <a href="#"><i class="fa fa-2x fa-pinterest" style="color: gray; width: 50;"></i></a>
+
+                        {% if newLoad["_Facebook_Group_Page"] %} <a href='{{newLoad["_Facebook_Group_Page"]}}'><i class="fa fa-2x fa-facebook" style="color: gray; width: 50;"></i></a> {% endif %}
+                        {% if newLoad["_Instagram"] %} <a href='{{newLoad["_Instagram"]}}'><i class="fa fa-2x fa-instagram" style="color: gray; width: 50;"></i></a>  {% endif %}
+                        {% if newLoad["Website"] %}  <a href='{{newLoad["Website"]}}'><i class="fa fa-2x fa-link" style="color: gray; width: 50;"></i></a> {% endif %}
+                        {% if newLoad["Organization_Email"] %}  <a href='mailto:{{newLoad["Organization_Email"]}}'><i class="fa fa-2x fa-envelope" style="color: gray; width: 50;"></i></a> {% endif %}
+                          
+                         
+                          
+
+                          
                       </div>
-                      <a href="#" class="btn btn-secondary mt-3">See More</a>
                   </div>
               </div>
             </div>
-            <!-- <div class="col-lg-4 mt-5 mt-lg-0">
-                <figure class="potoaboutwrap">
-                    <img src="https://bootdey.com/image/400x700/FF7F50/000000" alt="potoabout" style="height: 600px;">
-                </figure>
-            </div> -->
+
+            <img src="{{newLoad['Clubs_img']}}" alt="potoabout" style="height: 600px; width: 437;">
+
+
         </div>
         </section>
   
