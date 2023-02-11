@@ -9,7 +9,7 @@
       
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-      <style>.flex_container {display: flex;position: relative;margin: 0 10px;background: Red;}#main {padding: 10px;color: #000;background: #fff;flex-grow: 1;position: relative;max-width: 100%;} </style>
+      <style>.flex_container {display: flex;position: relative;margin: 0 10px;background: Red;} @media only screen and (max-width: 975px) {.cont{display:block !important;} .tablr{width: 100% !important;} img{width: 100% !important;}} #main {padding: 10px;color: #000;background: #fff;flex-grow: 1;position: relative;max-width: 100%;} </style>
       
       <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
     </head>
@@ -43,113 +43,127 @@
   
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   
-        <section id="about-section" class="pt-5 pb-5">
-            <div class="row" style="margin-left: 0;margin-right: -250;margin-top: -45;">
-            <div class="col-lg-6 align-items-center justify-content-left d-flex mb-5 mb-lg-0">
-              <div class="blockabout">
-                  <div class="blockabout-inner text-center text-sm-start">
-                      <div class="title-big pb-3 mb-3">
-                          <h3>{{newLoad['Clubs_Name']}}</h3>
-                      </div>
-                      <p class="description-p text-muted pe-0 pe-lg-0">
-                          <table class="table table-striped">
-                              <tbody>
-                              {% for k,v in newLoad.items() %}
-                                {% if k == "Status" %}
-                                <tr>
-                                  <th scope="row">{{k.replace("_", " ")}}</th>
-                                  <td>{{v}}</td>
-                                </tr>
-                                {% endif %}
+        <div class="cont" style="display: flex;">
+            <div class="tablr" style="width: 60%;">
+                <div class="title-big pb-3 mb-3" style="display: flex; justify-content: center;">
+                    <h3>{{newLoad['Clubs_Name']}}</h3>
+                </div>
+                <p class="description-p text-muted pe-0 pe-lg-0">
+                    <table class="table table-striped">
+                        <tbody>
+                        {% for k,v in newLoad.items() %}
+                            {% if k == "Status" %}
+                            <tr>
+                            <th scope="row">{{k.replace("_", " ")}}</th>
+                            <td>{{v}}</td>
+                            </tr>
+                            {% endif %}
 
-                                {% if k == "Purpose_Statement" %}
-                                <tr>
-                                  <th scope="row">Summary</th>
-                                  <td>{{v}}</td>
-                                </tr>
-                                {% endif %}
+                            {% if k == "Purpose_Statement" %}
+                            <tr>
+                            <th scope="row">Summary</th>
+                            <td>{{v}}</td>
+                            </tr>
+                            {% endif %}
 
 
-                                {% if k == "Meeting_Time_and_Place" %}
-                                <tr>
-                                  <th scope="row"> Meetings </th>
-                                  <td>{{v}}</td>
-                                </tr>
-                                {% endif %}
+                            {% if k == "Meeting_Time_and_Place" %}
+                            <tr>
+                            <th scope="row"> Meetings </th>
+                            <td>{{v}}</td>
+                            </tr>
+                            {% endif %}
 
 
-                                {% if k == "Primary_Leader" %}  
-                                <tr>
-                                <th scope="row">          
-                                    President
-                                    </th>
-                                    <td>
-                                      {{v}}
-                                    </td>
-                                </tr>
-                                {% endif %}
+                            {% if k == "Primary_Leader" %}  
+                            <tr>
+                            <th scope="row">          
+                                President
+                                </th>
+                                <td>
+                                {{v}}
+                                </td>
+                            </tr>
+                            {% endif %}
 
-                                {% if k == "Advisor" %}  
-                                <tr>
-                                <th scope="row">          
-                                    Advisor
-                                    </th>
-                                    <td>
-                                      {{v}}
-                                    </td>
-                                </tr>
-                                {% endif %}
+                            {% if k == "Secondary_Leader" %}  
+                            <tr>
+                            <th scope="row">          
+                                Vice President
+                                </th>
+                                <td>
+                                {{v}}
+                                </td>
+                            </tr>
+                            {% endif %}
+
+                            {% if k == "Treasurer_Leader" %}  
+                            <tr>
+                            <th scope="row">          
+                                Treasurer
+                                </th>
+                                <td>
+                                {{v}}
+                                </td>
+                            </tr>
+                            {% endif %}
+
+                            {% if k == "Advisor" %}  
+                            <tr>
+                            <th scope="row">          
+                                Advisor
+                                </th>
+                                <td>
+                                {{v}}
+                                </td>
+                            </tr>
+                            {% endif %}
 
 
-                                {% if k == "How_does_a_Prospective_Member_Apply" %}  
-                                <tr>
-                                <th scope="row">          
-                                    Application
-                                    </th>
-                                    <td>
-                                      {{v}}
-                                    </td>
-                                </tr>
-                                {% endif %}
+                            {% if k == "How_does_a_Prospective_Member_Apply" %}  
+                            <tr>
+                            <th scope="row">          
+                                Application
+                                </th>
+                                <td>
+                                {{v}}
+                                </td>
+                            </tr>
+                            {% endif %}
 
 
-                                {% if k == "Charge_Dues" %}  
-                                <tr>
-                                <th scope="row">          
-                                    Fees
-                                    </th>
-                                    <td>
-                                      {{v}}
-                                    </td>
-                                </tr>
-                                {% endif %}
+                            {% if k == "Charge_Dues" %}  
+                            <tr>
+                            <th scope="row">          
+                                Fees
+                                </th>
+                                <td>
+                                {{v}}
+                                </td>
+                            </tr>
+                            {% endif %}
 
-                              {% endfor %}
-                              </tbody>
-                          </table>
-                      </p>
-                      <p class="description-p text-muted pe-0 pe-lg-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quas optio reiciendis deleniti voluptatem facere.</p>
-                      <div class="sosmed-horizontal pt-3 pb-3">
+                        {% endfor %}
+                        </tbody>
+                    </table>
+                </p>
+                <center>
+                    <div class="sosmed-horizontal pt-3 pb-3">
 
-                        {% if newLoad["_Facebook_Group_Page"] %} <a href='{{newLoad["_Facebook_Group_Page"]}}'><i class="fa fa-2x fa-facebook" style="color: gray; width: 50;"></i></a> {% endif %}
-                        {% if newLoad["_Instagram"] %} <a href='{{newLoad["_Instagram"]}}'><i class="fa fa-2x fa-instagram" style="color: gray; width: 50;"></i></a>  {% endif %}
-                        {% if newLoad["Website"] %}  <a href='{{newLoad["Website"]}}'><i class="fa fa-2x fa-link" style="color: gray; width: 50;"></i></a> {% endif %}
-                        {% if newLoad["Organization_Email"] %}  <a href='mailto:{{newLoad["Organization_Email"]}}'><i class="fa fa-2x fa-envelope" style="color: gray; width: 50;"></i></a> {% endif %}
-                          
-                         
-                          
+                        {% if newLoad["_Facebook_Group_Page"] %} <a onclick='window.open(`{{newLoad["_Facebook_Group_Page"]}}`)'><i class="fa fa-2x fa-facebook" style="color: gray; width: 50;"></i></a> {% endif %}
+                        {% if newLoad["_Instagram"] %} <a onclick='window.open(`{{newLoad["_Instagram"]}}`)'><i class="fa fa-2x fa-instagram" style="color: gray; width: 50;"></i></a>  {% endif %}
+                        {% if newLoad["Website"] %} 
+                            <a onclick='window.open(`{{newLoad["Website"]}}`)'><i class="fa fa-2x fa-link" style="color: gray; width: 50;"></i></a> 
+                        {% else%}
+                            <a onclick='window.open(`{{newLoad["Clubs_Link"]}}`)'><i class="fa fa-2x fa-link" style="color: gray; width: 50;"></i></a> 
+                        {% endif %}
+                        {% if newLoad["Organization_Email"] %}  <a onclick='window.open(`mailto:{{newLoad["Organization_Email"]}}`)'><i class="fa fa-2x fa-envelope" style="color: gray; width: 50;"></i></a> {% endif %}
+                    </div>
+                </center>
 
-                          
-                      </div>
-                  </div>
-              </div>
             </div>
-
-            <img src="{{newLoad['Clubs_img']}}" alt="potoabout" style="height: 600px; width: 437;">
-
-
+            <img src="{{newLoad['Clubs_img']}}" alt="potoabout" style="height: 600px; width: 40%;">
         </div>
-        </section>
   
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   

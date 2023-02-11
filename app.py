@@ -9,8 +9,24 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 @app.route('/')
 def index():
-    randomC = random.choice(txt).get("Clubs_Link")
-    return render_template('ind.html', choice=randomC)
+    randomC = str(random.choice(txt).get("Clubs_Link")).replace('https://activities.osu.edu/involvement/student_organizations/find_a_student_org?i=' ,'').replace('&l=ALL&v=list&c=Columbus&page=0' , '')
+    randomC = f"view?id={randomC}"
+
+    random1 = str(random.choice(txt).get("Clubs_img"))
+    random2 = str(random.choice(txt).get("Clubs_img"))
+    random3 = str(random.choice(txt).get("Clubs_img"))
+
+    if random1 == "https://img.freepik.com/premium-vector/no-photo-available-vector-icon-default-image-symbol-picture-coming-soon-web-site-mobile-app_87543-10615.jpg":
+        random1 = "https://activities.osu.edu/posts/studentorgs/logos/official-logo-640x480.png"
+        
+    if random2 == "https://img.freepik.com/premium-vector/no-photo-available-vector-icon-default-image-symbol-picture-coming-soon-web-site-mobile-app_87543-10615.jpg":
+        random2 = "https://activities.osu.edu/posts/studentorgs/logos/quizbowl_1-640x480.PNG"
+    
+    if random3 == "https://img.freepik.com/premium-vector/no-photo-available-vector-icon-default-image-symbol-picture-coming-soon-web-site-mobile-app_87543-10615.jpg":
+        random3 = "https://activities.osu.edu/posts/studentorgs/logos/1girl-logo-640x480.png"
+           
+
+    return render_template('ind.html', choice=randomC, random1 =random1, random2=random2, random3= random3)
 
 @app.route('/list' , methods=['GET'])
 def list():
@@ -92,4 +108,4 @@ def all():
 
 
 
-app.run(port=2323)
+app.run(host="0.0.0.0", )

@@ -173,7 +173,7 @@ txt = [
  
 "Advisor" : "I Shan Yang",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -220,7 +220,7 @@ txt = [
  
 "Organization_Email" : "jordan.fry@osumc.edu, sarah.board@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -269,7 +269,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/3D-Urban-Dance-Team-164026183756582/photos/?tab=album&album_id=164026910423176",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -416,7 +416,7 @@ txt = [
  
 "Advisor" : "Amber Clevenger",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -465,7 +465,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/clubnintendoosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -667,7 +667,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Abya-Yala-Ohio-State-104225711037813",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -716,7 +716,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/142660102092/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -761,7 +761,7 @@ txt = [
  
 "Advisor" : "Meow Goh",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -806,7 +806,7 @@ txt = [
  
 "Advisor" : "James Cottle",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -1004,7 +1004,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ace_space_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -1051,7 +1051,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/actionteamosu?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -1145,7 +1145,7 @@ txt = [
  
 "Organization_Email" : "zachary.brannan@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -1190,7 +1190,7 @@ txt = [
  
 "Advisor" : "Danielle Whitaker",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -1282,7 +1282,7 @@ txt = [
  
 "Advisor" : "Katherine Federle",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -1378,7 +1378,7 @@ txt = [
  
 "Advisor" : "Creagh Boulger",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -1629,7 +1629,7 @@ txt = [
  
 "Advisor" : "Adeleke Adeeko",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -1676,7 +1676,7 @@ txt = [
  
 "Organization_Email" : "oldisgoldosu@outlook.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -1876,7 +1876,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/agriculturaleducationsociety/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -1925,7 +1925,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUASMClub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -1972,7 +1972,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/gsaaede/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -2017,7 +2017,7 @@ txt = [
  
 "Advisor" : "Ahsan Syed",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -2064,7 +2064,7 @@ txt = [
  
 "Co-Advisor" : "Brian Joseph",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -2160,7 +2160,7 @@ txt = [
  
 "Advisor" : "Casey Curtis",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -2205,7 +2205,7 @@ txt = [
  
 "Advisor" : "Adeleke Adeeko",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -2254,7 +2254,7 @@ txt = [
  
 "Organization_Email" : "alohadanceosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -2936,7 +2936,7 @@ txt = [
  
 "Advisor" : "Mary Faure",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -2983,7 +2983,7 @@ txt = [
  
 "Organization_Email" : "aoa@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -3030,7 +3030,7 @@ txt = [
  
 "Co-Advisor" : "Samantha Marks",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -3126,7 +3126,7 @@ txt = [
  
 "Organization_Email" : "kappachapter1906@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -3373,7 +3373,7 @@ txt = [
  
 "_Facebook_Group_Page" : "http://www.facebook.com/groups/apo.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -3471,7 +3471,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/AlphaSigOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -3575,7 +3575,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OhioStateATO",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -3726,7 +3726,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osualumniambassadors",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -3877,7 +3877,7 @@ txt = [
  
 "Organization_Email" : "aaphd.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -4077,7 +4077,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/acda_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -4124,7 +4124,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/643808515688713/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -4173,7 +4173,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/553279566067811/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -4218,7 +4218,7 @@ txt = [
  
 "Advisor" : "Thomas Wood",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -4520,7 +4520,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/AMAOSUCOM/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -4565,7 +4565,7 @@ txt = [
  
 "Advisor" : "Alex Grieco",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -4614,7 +4614,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OhioStateAMWA/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -4659,7 +4659,7 @@ txt = [
  
 "Advisor" : "Luma Ghalib",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -4716,7 +4716,7 @@ txt = [
  
 "_Other" : "https://www.tiktok.com/@ans_osu?lang=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -4859,7 +4859,7 @@ txt = [
  
 "Advisor" : "Ginny Bumgardner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5053,7 +5053,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/ASCP-at-The-Ohio-State-University-1612593325656880/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5351,7 +5351,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/amongusclubosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -5398,7 +5398,7 @@ txt = [
  
 "Organization_Email" : "amppatosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5447,7 +5447,7 @@ txt = [
  
 "Organization_Email" : "anatomymemorialservice@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5494,7 +5494,7 @@ txt = [
  
 "Organization_Email" : "osu.anesthesiaig@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5539,7 +5539,7 @@ txt = [
  
 "Advisor" : "Amar Bhatt",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5586,7 +5586,7 @@ txt = [
  
 "Organization_Email" : "burnett.237@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5633,7 +5633,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuansci",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5733,7 +5733,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/35904085/eeq4FP",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5784,7 +5784,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuanimationclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -5884,7 +5884,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/90698778/73CPloUZ",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -5988,7 +5988,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/asuatosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -6033,7 +6033,7 @@ txt = [
  
 "Advisor" : "michael mercil",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -6078,7 +6078,7 @@ txt = [
  
 "Advisor" : "Ashley Schafer",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -6178,7 +6178,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/The-Armed-Forces-Club-at-The-Ohio-State-College-of-Dentistry-413225186199172/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -6225,7 +6225,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/224232207686378/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -6511,7 +6511,7 @@ txt = [
  
 "Advisor" : "Johanna Sellman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -6556,7 +6556,7 @@ txt = [
  
 "Advisor" : "Suzanne Silver",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -6705,7 +6705,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/aaep_artspriori/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -6752,7 +6752,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/asbmbosu?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -6799,7 +6799,7 @@ txt = [
  
 "Organization_Email" : "ascendosu@outlook.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -6844,7 +6844,7 @@ txt = [
  
 "Advisor" : "Mark Bender",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -6895,7 +6895,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/aaaohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -6995,7 +6995,7 @@ txt = [
  
 "_Facebook_Group_Page" : "http://www.facebook.com/home.php#!/home.php?sk=group_195932577088300≈=1",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7093,7 +7093,7 @@ txt = [
  
 "Organization_Email" : "moritzlaw.apalsa@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7142,7 +7142,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/apamsa_osucom?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -7191,7 +7191,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/APIDACohortOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -7240,7 +7240,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.cod.apsda",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7291,7 +7291,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuasiansinvetmed/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -7385,7 +7385,7 @@ txt = [
  
 "Advisor" : "Naomi Brenner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -7528,7 +7528,7 @@ txt = [
  
 "Advisor" : "Galal Walker",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7681,7 +7681,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/2091454531128361/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7726,7 +7726,7 @@ txt = [
  
 "Advisor" : "Ethan Morgan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7871,7 +7871,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUAWD",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7920,7 +7920,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/89948235/lORUrGdz",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -7967,7 +7967,7 @@ txt = [
  
 "Organization_Email" : "osuaws@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -8122,7 +8122,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/autismspeaksohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -8177,7 +8177,7 @@ txt = [
  
 "_Other" : "https://discord.gg/DJV3uK9VcF",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -8226,7 +8226,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/200072667858402/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -8273,7 +8273,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/autodrive_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -8320,7 +8320,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/amo.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -8367,7 +8367,7 @@ txt = [
  
 "Organization_Email" : "macdavid.1@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -8516,7 +8516,7 @@ txt = [
  
 "Organization_Email" : "badsingerskaraokeosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -8610,7 +8610,7 @@ txt = [
  
 "Advisor" : "Jenny Xu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -8659,7 +8659,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Baltic-Club-OSU-106294718092331/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -8755,7 +8755,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/435227193747688",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -8849,7 +8849,7 @@ txt = [
  
 "Advisor" : "Adam Specht",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -8894,7 +8894,7 @@ txt = [
  
 "Advisor" : "Brian Oilar",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -8939,7 +8939,7 @@ txt = [
  
 "Advisor" : "Jill Clutter",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -9037,7 +9037,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osubeeclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -9084,7 +9084,7 @@ txt = [
  
 "Organization_Email" : "Thebeefjerkyclub.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -9129,7 +9129,7 @@ txt = [
  
 "Advisor" : "Justin Birru",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -9223,7 +9223,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/BGRSatOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -9413,7 +9413,7 @@ txt = [
  
 "Advisor" : "Cristina Vega",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -9458,7 +9458,7 @@ txt = [
  
 "Advisor" : "Kimberly Patton",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -9556,7 +9556,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/betaohiostate",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -9705,7 +9705,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/i/connect_people",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -9754,7 +9754,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/BigBuckeyeLilBuckeye/?modal=admin_todo_tour",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -9901,7 +9901,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/57312068/qHwH4Y2G",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -9952,7 +9952,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/thebioethicssociety?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -10101,7 +10101,7 @@ txt = [
  
 "Advisor" : "Steven Mousetes",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -10146,7 +10146,7 @@ txt = [
  
 "Advisor" : "Mike Freitas",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -10436,7 +10436,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Moritz-College-of-Law-Black-Law-Student-Association-432057103506938/?ref=aymt_homepage_panel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -10483,7 +10483,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/BLMbegonias/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -10628,7 +10628,7 @@ txt = [
  
 "Organization_Email" : "osubmhc@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -10677,7 +10677,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/tosu_bqc/?r=nametag",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -10779,7 +10779,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/bsp_osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -10826,7 +10826,7 @@ txt = [
  
 "Organization_Email" : "bsph@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -10871,7 +10871,7 @@ txt = [
  
 "Organization_Email" : "Frazier.497@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -10967,7 +10967,7 @@ txt = [
  
 "Advisor" : "Janet Antwi",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -11167,7 +11167,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/bloomingcolumbus/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -11310,7 +11310,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_btd/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -11361,7 +11361,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/bodysenseosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -11406,7 +11406,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -11455,7 +11455,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/91653580/2wpHPfRE",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -11602,7 +11602,7 @@ txt = [
  
 "Advisor" : "Jolie Braun",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -11647,7 +11647,7 @@ txt = [
  
 "Advisor" : "Zoe Thompson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -11694,7 +11694,7 @@ txt = [
  
 "Organization_Email" : "ruff.165@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -11741,7 +11741,7 @@ txt = [
  
 "Organization_Email" : "branchesosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -11843,7 +11843,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/breadosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -11894,7 +11894,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/breathehopeosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -11988,7 +11988,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/BridgesInternationalOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -12080,7 +12080,7 @@ txt = [
  
 "Advisor" : "Kelly Kelleher",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -12127,7 +12127,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/BSRSpinDoctors",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -12421,7 +12421,7 @@ txt = [
  
 "Advisor" : "Jeffrey Buser",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -12470,7 +12470,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/buckeyebongs",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -12517,7 +12517,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/buckeyebhangra?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -12562,7 +12562,7 @@ txt = [
  
 "Advisor" : "Michael Betz",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -12709,7 +12709,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/740395816007717/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -12807,7 +12807,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/osubuckeyebrighters",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -12858,7 +12858,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/osubroomball",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -12907,7 +12907,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/buckeyebuddiesosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -12960,7 +12960,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/bcasosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -13109,7 +13109,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/122307065154046/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -13213,7 +13213,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyedairy/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -13258,7 +13258,7 @@ txt = [
  
 "Advisor" : "Julie Hillery",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -13303,7 +13303,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -13348,7 +13348,7 @@ txt = [
  
 "Advisor" : "Wayne Schlingman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -13450,7 +13450,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/BuckeyeFurs",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -13595,7 +13595,7 @@ txt = [
  
 "Advisor" : "Rebecca Mason Vergote",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -13640,7 +13640,7 @@ txt = [
  
 "Advisor" : "Shari Speer",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -13934,7 +13934,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/BuckeyeParasitologyClub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -14032,7 +14032,7 @@ txt = [
  
 "Organization_Email" : "terrell.155@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -14081,7 +14081,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/BuckeyePokemon/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -14273,7 +14273,7 @@ txt = [
  
 "Advisor" : "Kannan Athreya",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -14567,7 +14567,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyespectrum/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -14614,7 +14614,7 @@ txt = [
  
 "Organization_Email" : "squashclub@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -14665,7 +14665,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyestandup/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -15061,7 +15061,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -15106,7 +15106,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyefridgeosu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -15204,7 +15204,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUGreyhoundProgram/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -15251,7 +15251,7 @@ txt = [
  
 "Organization_Email" : "buckeyes4youthhealth@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -15349,7 +15349,7 @@ txt = [
  
 "Organization_Email" : "Buckeyesagainstcancer@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -15398,7 +15398,7 @@ txt = [
  
 "Organization_Email" : "BuckeyesAssemble1287@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -15449,7 +15449,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/buckeyesfirst",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -15798,7 +15798,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyes4rmhc/?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -15847,7 +15847,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyesforsach/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -15894,7 +15894,7 @@ txt = [
  
 "Organization_Email" : "osubuckeyesontap@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -15945,7 +15945,7 @@ txt = [
  
 "_Twitter" : "http://www.twitter.com/buckeyesreach",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -16147,7 +16147,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osubuckite",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -16192,7 +16192,7 @@ txt = [
  
 "Advisor" : "Sherab Chen",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -16237,7 +16237,7 @@ txt = [
  
 "Advisor" : "Ligang Liu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -16435,7 +16435,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.bll/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -16529,7 +16529,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -16627,7 +16627,7 @@ txt = [
  
 "Organization_Email" : "clevenger.118@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -16770,7 +16770,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/cantoneseclub_osu?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -16919,7 +16919,7 @@ txt = [
  
 "Organization_Email" : "sachit.rustagi@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -17009,7 +17009,7 @@ txt = [
  
 "Advisor" : "Orlando Simonetti",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -17058,7 +17058,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/CSAOhioState",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -17107,7 +17107,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/670397019722469/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -17156,7 +17156,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/casualsportsclub?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -17203,7 +17203,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/CathMedOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -17252,7 +17252,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/crsohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -17301,7 +17301,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1463979253868625/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -17446,7 +17446,7 @@ txt = [
  
 "Organization_Email" : "ry.hottle@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -17599,7 +17599,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/COSAAOSU/?fref=ts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -17644,7 +17644,7 @@ txt = [
  
 "Advisor" : "William Morgan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -17738,7 +17738,7 @@ txt = [
  
 "Co-Advisor" : "Benjamin Carignan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -17838,7 +17838,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/chalktalkosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -17928,7 +17928,7 @@ txt = [
  
 "Organization_Email" : "cheeseaddictsosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -17975,7 +17975,7 @@ txt = [
  
 "Organization_Email" : "chembiosg@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -18022,7 +18022,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/ChemECarOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -18069,7 +18069,7 @@ txt = [
  
 "Organization_Email" : "allyn.16@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -18120,7 +18120,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/chemclub_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -18224,7 +18224,7 @@ txt = [
  
 "_Other" : "https://discord.gg/P9FJwQCMYF",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -18320,7 +18320,7 @@ txt = [
  
 "Organization_Email" : "ohiostate.chiepsilon@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -18465,7 +18465,7 @@ txt = [
  
 "Advisor" : "Darcy Granello",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -18614,7 +18614,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/casaatosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -18661,7 +18661,7 @@ txt = [
  
 "Organization_Email" : "cafa.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -18706,7 +18706,7 @@ txt = [
  
 "Advisor" : "Shengying Bao",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -18755,7 +18755,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/cbfc_osu?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -18851,7 +18851,7 @@ txt = [
  
 "Co-Advisor" : "Miranda Gerberding",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -18945,7 +18945,7 @@ txt = [
  
 "Advisor" : "Fnu Nisiqi",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -18996,7 +18996,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/172512946642778/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -19094,7 +19094,7 @@ txt = [
  
 "Organization_Email" : "csec.Ohio@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -19141,7 +19141,7 @@ txt = [
  
 "Organization_Email" : "osucpsa@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -19190,7 +19190,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/csssosu?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -19235,7 +19235,7 @@ txt = [
  
 "Advisor" : "Mark Bender",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -19282,7 +19282,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osu_cwbc?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -19329,7 +19329,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/120490145271219/?ref=bookmarks",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -19376,7 +19376,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/611205942411275/?ref=bookmarks",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -19525,7 +19525,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/OSU.CVF/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -19625,7 +19625,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/chronicallyatohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -19717,7 +19717,7 @@ txt = [
  
 "Advisor" : "Layla Muchnik",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -19823,7 +19823,7 @@ txt = [
  
 "_Twitter" : "http://twitter.com/circularimprov",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -19921,7 +19921,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ccl_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -20019,7 +20019,7 @@ txt = [
  
 "Organization_Email" : "ENG-CEGA@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -20068,7 +20068,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/OSUClarinetStudio/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -20115,7 +20115,7 @@ txt = [
  
 "Organization_Email" : "classicscoffeehour@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -20499,7 +20499,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/coffeeroastingclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -20595,7 +20595,7 @@ txt = [
  
 "Advisor" : "Julia Armstrong",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -20697,7 +20697,7 @@ txt = [
  
 "_Twitter" : "https://www.twitter.com/osudems",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -20742,7 +20742,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -20838,7 +20838,7 @@ txt = [
  
 "Organization_Email" : "latshaw.17@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -20889,7 +20889,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_cod_studentgov/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -20936,7 +20936,7 @@ txt = [
  
 "Organization_Email" : "pero.17@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -20983,7 +20983,7 @@ txt = [
  
 "Organization_Email" : "codsga2024@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21032,7 +21032,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osudental2025",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21079,7 +21079,7 @@ txt = [
  
 "Organization_Email" : "codexec2023@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -21126,7 +21126,7 @@ txt = [
  
 "Organization_Email" : "osucod2023@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -21175,7 +21175,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osucod_srg",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21371,7 +21371,7 @@ txt = [
  
 "Advisor" : "Harsha Iyer",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21418,7 +21418,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/556280137766192/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21463,7 +21463,7 @@ txt = [
  
 "Advisor" : "Mehran Mostafavifar",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21600,7 +21600,7 @@ txt = [
  
 "Organization_Email" : "osunursingstudentambassadors@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21645,7 +21645,7 @@ txt = [
  
 "Advisor" : "Marjean Kulp",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21743,7 +21743,7 @@ txt = [
  
 "Organization_Email" : "osu.pharmacy.council@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -21839,7 +21839,7 @@ txt = [
  
 "Advisor" : "Sandra Dawkins",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -21884,7 +21884,7 @@ txt = [
  
 "Advisor" : "John Mark Reddish",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -21929,7 +21929,7 @@ txt = [
  
 "Advisor" : "Christopher Premanandan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -21976,7 +21976,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/269360051454850",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -22182,7 +22182,7 @@ txt = [
  
 "Organization_Email" : "ccdcosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -22276,7 +22276,7 @@ txt = [
  
 "Organization_Email" : "cbjatosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -22323,7 +22323,7 @@ txt = [
  
 "Organization_Email" : "columbusfreeclinic.fellowship@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -22372,7 +22372,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/pages/ColumbusSongwritersAssociation/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -22417,7 +22417,7 @@ txt = [
  
 "Advisor" : "Cathy Ryan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -22513,7 +22513,7 @@ txt = [
  
 "Advisor" : "David Zach",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -22558,7 +22558,7 @@ txt = [
  
 "Advisor" : "Erica Szeyller-Macolley",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -22652,7 +22652,7 @@ txt = [
  
 "Advisor" : "Mark Anthony Arceño",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -22697,7 +22697,7 @@ txt = [
  
 "Advisor" : "Mark Anthony Arceno",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -22789,7 +22789,7 @@ txt = [
  
 "Advisor" : "Lisa Burris",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -22883,7 +22883,7 @@ txt = [
  
 "Advisor" : "Alan Davis",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -22983,7 +22983,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1696668130555478/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -23030,7 +23030,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/c2rosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -23077,7 +23077,7 @@ txt = [
  
 "Organization_Email" : "theosucookingclub@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -23126,7 +23126,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/copticclubosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -23173,7 +23173,7 @@ txt = [
  
 "Organization_Email" : "halloy.5@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -23224,7 +23224,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/cbsaosu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -23369,7 +23369,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/compa_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -23514,7 +23514,7 @@ txt = [
  
 "Organization_Email" : "Deere.20@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -23561,7 +23561,7 @@ txt = [
  
 "Organization_Email" : "thecreativewellnessproject@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -23606,7 +23606,7 @@ txt = [
  
 "Advisor" : "Terrance Hinton",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -23653,7 +23653,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/cc.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -23702,7 +23702,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ccfatosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -23751,7 +23751,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/CropsAndSoilsClubAtOhioState/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -23945,7 +23945,7 @@ txt = [
  
 "Advisor" : "Jim Fowler",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -23994,7 +23994,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/csca_ohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -24090,7 +24090,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/culinaryassociation/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -24135,7 +24135,7 @@ txt = [
  
 "Advisor" : "Diane Habash",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -24274,7 +24274,7 @@ txt = [
  
 "Advisor" : "Brett Worly",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -24325,7 +24325,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/CARERxatOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -24425,7 +24425,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuabwc/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -24472,7 +24472,7 @@ txt = [
  
 "Organization_Email" : "studentgovernmentco2022@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -24576,7 +24576,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osudaebak/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -24676,7 +24676,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostatedc",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -24727,7 +24727,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osudanceirregulars/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -24778,7 +24778,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/danceofsoulosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -24978,7 +24978,7 @@ txt = [
  
 "Organization_Email" : "katz.358@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -25041,11 +25041,11 @@ txt = [
  
 "Membership_Type" : "Open Membership",
  
-"Membership_Contact" : "NA",
+"Membership_Contact" : "",
  
-"Time_of_Year_for_New_Membership" : "NA",
+"Time_of_Year_for_New_Membership" : "",
  
-"How_does_a_Prospective_Member_Apply" : "NA",
+"How_does_a_Prospective_Member_Apply" : "",
  
 "Charge_Dues" : "No"
 },
@@ -25123,7 +25123,7 @@ txt = [
  
 "Organization_Email" : "decision-grads@lists.service.ohio-state.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -25556,7 +25556,7 @@ txt = [
  
 "Advisor" : "Lisa Knobloch",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -25605,7 +25605,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/DeltaSigOSU/?fref=ts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -25860,7 +25860,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/deltazetaosu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -25950,7 +25950,7 @@ txt = [
  
 "Advisor" : "Robert Busto",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -25999,7 +25999,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/DESOhioState/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -26044,7 +26044,7 @@ txt = [
  
 "Advisor" : "Danielle Whitaker",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -26089,7 +26089,7 @@ txt = [
  
 "Organization_Email" : "denthy21@lists.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -26138,7 +26138,7 @@ txt = [
  
 "Organization_Email" : "cardonasoto.1@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -26183,7 +26183,7 @@ txt = [
  
 "Advisor" : "Jessica Kaffenberger",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -26436,7 +26436,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUDhadkan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -26483,7 +26483,7 @@ txt = [
  
 "Organization_Email" : "dierkes.18@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -26528,7 +26528,7 @@ txt = [
  
 "Advisor" : "Alex Grieco",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -26575,7 +26575,7 @@ txt = [
  
 "Organization_Email" : "diamondgrovefellows@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -26620,7 +26620,7 @@ txt = [
  
 "Advisor" : "Allison Macerollo",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -26720,7 +26720,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osudgc",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -26769,7 +26769,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/thedoc",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -27053,7 +27053,7 @@ txt = [
  
 "Advisor" : "Jennifer Nakayama",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -27153,7 +27153,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/msf.osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -27206,7 +27206,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/dr.jhbiasbag?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -27357,7 +27357,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/echostudio2013",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -27508,7 +27508,7 @@ txt = [
  
 "Advisor" : "Jay Martin",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -27792,7 +27792,7 @@ txt = [
  
 "Advisor" : "Matt Malone",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -27837,7 +27837,7 @@ txt = [
  
 "Advisor" : "Carolyn Martinez",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -27886,7 +27886,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/emicosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -28131,7 +28131,7 @@ txt = [
  
 "Advisor" : "Sara Fowler",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -28180,7 +28180,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1641447226081780/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -28278,7 +28278,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_esw/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -28527,7 +28527,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osueugo/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -28576,7 +28576,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/enlighten.ht/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -28623,7 +28623,7 @@ txt = [
  
 "Co-Advisor" : "Nolan Seim",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -28962,7 +28962,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/EESOatOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -29007,7 +29007,7 @@ txt = [
  
 "Advisor" : "Kwaku Korang",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -29097,7 +29097,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -29240,7 +29240,7 @@ txt = [
  
 "Organization_Email" : "exerciseismedicine@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -29338,7 +29338,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/2413714342243068/?epa=SEARCH_BOX",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -29385,7 +29385,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/eyeaidorg?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -29430,7 +29430,7 @@ txt = [
  
 "Advisor" : "Danielle Orr",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -29481,7 +29481,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osufuncc",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -29636,7 +29636,7 @@ txt = [
  
 "Organization_Email" : "faithworks@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -29730,7 +29730,7 @@ txt = [
  
 "Advisor" : "Steven Lopez",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -29822,7 +29822,7 @@ txt = [
  
 "Advisor" : "Hiten Patel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -29869,7 +29869,7 @@ txt = [
  
 "Organization_Email" : "fantasyfootballosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -29967,7 +29967,7 @@ txt = [
  
 "Organization_Email" : "frsstudentambassador2020-21@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -30065,7 +30065,7 @@ txt = [
  
 "Advisor" : "Ric Simmons",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -30161,7 +30161,7 @@ txt = [
  
 "Organization_Email" : "fosa@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -30357,7 +30357,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/554365567956196/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -30406,7 +30406,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostatefly/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -30453,7 +30453,7 @@ txt = [
  
 "Organization_Email" : "FirstAidOSU@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -30555,7 +30555,7 @@ txt = [
  
 "Co-Advisor" : "Kathy Northern",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -30653,7 +30653,7 @@ txt = [
  
 "_Twitter" : "https://www.twitter.com/fyliosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -30700,7 +30700,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/firstgenmed_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -30747,7 +30747,7 @@ txt = [
  
 "Organization_Email" : "firstgenerationpremed@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -30851,7 +30851,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osufws",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -31096,7 +31096,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/#!/groups/347733031939002/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -31235,7 +31235,7 @@ txt = [
  
 "Advisor" : "Elliot Bendoly",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -31284,7 +31284,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/FisherExchangeNetwork/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -31333,7 +31333,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/fisher.follies?fref=ts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -31476,7 +31476,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/FisherGraduateLatinoAssociation/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -31525,7 +31525,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/fgnc_ohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -31621,7 +31621,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/pages/Fisher-Graduate-Women-in-Business-FGWIB/128727720501060",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -31668,7 +31668,7 @@ txt = [
  
 "Organization_Email" : "fisherhealthcareassociation@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -31762,7 +31762,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/FisherIndianStudentsAssociation/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -31911,7 +31911,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/figsaosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -31958,7 +31958,7 @@ txt = [
  
 "Organization_Email" : "FCOB-ftmbacouncil@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -32054,7 +32054,7 @@ txt = [
  
 "Advisor" : "Scott Griffin",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32146,7 +32146,7 @@ txt = [
  
 "Advisor" : "Supaphen Niroula",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32248,7 +32248,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/fisherservesosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -32293,7 +32293,7 @@ txt = [
  
 "Advisor" : "Nathan Craig",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32387,7 +32387,7 @@ txt = [
  
 "Advisor" : "Naomi Brenner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -32436,7 +32436,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/fmw_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -32540,7 +32540,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUFolclor/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -32589,7 +32589,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/139931545035/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32634,7 +32634,7 @@ txt = [
  
 "Advisor" : "Keith Anderson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -32832,7 +32832,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_fsc/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32879,7 +32879,7 @@ txt = [
  
 "Organization_Email" : "booth.310@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32926,7 +32926,7 @@ txt = [
  
 "Organization_Email" : "fabegso@groups.live.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -32979,7 +32979,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/forestryforumosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -33075,7 +33075,7 @@ txt = [
  
 "Advisor" : "Birsel Pirim",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -33124,7 +33124,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/formularacinganalysis/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -33220,7 +33220,7 @@ txt = [
  
 "Organization_Email" : "osu.fimrc@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -33267,7 +33267,7 @@ txt = [
  
 "Organization_Email" : "Freedomtodanceclub@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -33365,7 +33365,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/lecerclefrancais_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -33459,7 +33459,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -33508,7 +33508,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/friendshipcircleosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -33602,7 +33602,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1133079733525539/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -33651,7 +33651,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/FutureBuckeyePAs",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -33790,7 +33790,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/gamenightsosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -33839,7 +33839,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostategis/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -33984,7 +33984,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -34031,7 +34031,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuppgen/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -34082,7 +34082,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osugenerationrxcollaborative/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -34127,7 +34127,7 @@ txt = [
  
 "Advisor" : "Kandamurugu Manickam",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -34227,7 +34227,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/geogclubOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -34272,7 +34272,7 @@ txt = [
  
 "Advisor" : "Alvaro Montenegro",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -34368,7 +34368,7 @@ txt = [
  
 "Organization_Email" : "Paul.Nagib@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -34568,7 +34568,7 @@ txt = [
  
 "Organization_Email" : "bradley.317@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -34615,7 +34615,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/girlgainsosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -34664,7 +34664,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/girlupohiostate",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -34713,7 +34713,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/gwc.ohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -34762,7 +34762,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/girlsliftingosu/?r=nametag",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -34811,7 +34811,7 @@ txt = [
  
 "Organization_Email" : "gkas@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -34856,7 +34856,7 @@ txt = [
  
 "Advisor" : "Kimberly Tackett",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -35001,7 +35001,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/globalbuckeyeathletes",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -35046,7 +35046,7 @@ txt = [
  
 "Advisor" : "Joyce Steffan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -35144,7 +35144,7 @@ txt = [
  
 "Organization_Email" : "miller.9080@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -35191,7 +35191,7 @@ txt = [
  
 "Organization_Email" : "gmmaosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -35334,7 +35334,7 @@ txt = [
  
 "Organization_Email" : "osuwaterbrigades@outlook.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -35381,7 +35381,7 @@ txt = [
  
 "Organization_Email" : "jauregui.7@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -35477,7 +35477,7 @@ txt = [
  
 "Advisor" : "Greg Nixon",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -35624,7 +35624,7 @@ txt = [
  
 "_Facebook_Group_Page" : "http://www.facebook.com/group.php?gid=2201041825",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -35871,7 +35871,7 @@ txt = [
  
 "Advisor" : "Ana Casado",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36012,7 +36012,7 @@ txt = [
  
 "Organization_Email" : "graduatemuslimclub@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -36057,7 +36057,7 @@ txt = [
  
 "Advisor" : "Heather Anderson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36102,7 +36102,7 @@ txt = [
  
 "Advisor" : "Declan Smithies",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36202,7 +36202,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_geesack",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -36249,7 +36249,7 @@ txt = [
  
 "Co-Advisor" : "Laura Lisbon",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -36386,7 +36386,7 @@ txt = [
  
 "Advisor" : "Etsuyo Yuasa",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36433,7 +36433,7 @@ txt = [
  
 "Organization_Email" : "brian_rocha1@aol.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36574,7 +36574,7 @@ txt = [
  
 "Advisor" : "David Sivakoff",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -36678,7 +36678,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/greekpbosu?lang=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36821,7 +36821,7 @@ txt = [
  
 "Advisor" : "Ruchika Prakash",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -36972,7 +36972,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/bucksraisingpups/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -37068,7 +37068,7 @@ txt = [
  
 "Organization_Email" : "hartmann.119@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -37221,7 +37221,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_hapa/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -37268,7 +37268,7 @@ txt = [
  
 "Organization_Email" : "hammockclub22@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -37415,7 +37415,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/happydogosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -37507,7 +37507,7 @@ txt = [
  
 "Co-Advisor" : "Jen Pelletier",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -37558,7 +37558,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/harrypotterallianceatohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -37656,7 +37656,7 @@ txt = [
  
 "Organization_Email" : "himsosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -37860,7 +37860,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osu_healthsciences_club?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -38148,7 +38148,7 @@ txt = [
  
 "Advisor" : "Harris Kagan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -38197,7 +38197,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/highstreetcharitablegames/?r=nametag",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -38242,7 +38242,7 @@ txt = [
  
 "Advisor" : "Allison Heacock",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -38287,7 +38287,7 @@ txt = [
  
 "Advisor" : "Jasmine Abukar",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -38332,7 +38332,7 @@ txt = [
  
 "Advisor" : "Joe Goodman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -38377,7 +38377,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -38422,7 +38422,7 @@ txt = [
  
 "Advisor" : "Naomi Brenner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -38473,7 +38473,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/hindiclubosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -38573,7 +38573,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/hiphopclubosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -38620,7 +38620,7 @@ txt = [
  
 "Organization_Email" : "osuhiphopheads@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -38665,7 +38665,7 @@ txt = [
  
 "Advisor" : "Jody Patterson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -38757,7 +38757,7 @@ txt = [
  
 "Advisor" : "Maria Clark",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -38804,7 +38804,7 @@ txt = [
  
 "Organization_Email" : "hoikeohawaii@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -38849,7 +38849,7 @@ txt = [
  
 "Advisor" : "Steven Glaser",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -38998,7 +38998,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/hope_at_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -39047,7 +39047,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/894793794038313/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39092,7 +39092,7 @@ txt = [
  
 "Advisor" : "Qing Liu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39190,7 +39190,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/hhcomplexosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -39237,7 +39237,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/hdfs_at_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39284,7 +39284,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/161164544443648/?ref=bookmarks",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39382,7 +39382,7 @@ txt = [
  
 "_Instagram" : "Hhttps://www.instagram.com/osuhra",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39431,7 +39431,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuhai/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39578,7 +39578,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/can_medical",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -39668,7 +39668,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -39772,7 +39772,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/ieee_osu?lang=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39819,7 +39819,7 @@ txt = [
  
 "Organization_Email" : "ifwhenhowmoritz@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -39915,7 +39915,7 @@ txt = [
  
 "Organization_Email" : "ima.ohiostate@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -39962,7 +39962,7 @@ txt = [
  
 "Organization_Email" : "DerekMichaelPotts@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -40009,7 +40009,7 @@ txt = [
  
 "Organization_Email" : "broughton.49@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -40058,7 +40058,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuinsafehands/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -40207,7 +40207,7 @@ txt = [
  
 "Organization_Email" : "ispmonitor@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -40448,7 +40448,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/ipho.osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -40540,7 +40540,7 @@ txt = [
  
 "Advisor" : "Jose Bazan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -40734,7 +40734,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/innerengineering_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -40783,7 +40783,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Inorganic-Chemistry-Exchange-317852548986625/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -40828,7 +40828,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -40877,7 +40877,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/iprgso",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41028,7 +41028,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/296157730859696/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41075,7 +41075,7 @@ txt = [
  
 "Organization_Email" : "iplsohiostate@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41173,7 +41173,7 @@ txt = [
  
 "_Facebook_Group_Page" : "http://www.facebook.com/#!/group.php?gid=151968301505943",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -41418,7 +41418,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/pages/Intergalactic-Science-Fiction-Club/122899094408267",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -41463,7 +41463,7 @@ txt = [
  
 "Advisor" : "Kevin Steiner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41508,7 +41508,7 @@ txt = [
  
 "Advisor" : "Vignesh Doraiswamy",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41553,7 +41553,7 @@ txt = [
  
 "Advisor" : "Kevin Patterson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41747,7 +41747,7 @@ txt = [
  
 "Advisor" : "Xinru Zheng",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -41943,7 +41943,7 @@ txt = [
  
 "Organization_Email" : "osu.international.law.soc@gmail.org",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -41990,7 +41990,7 @@ txt = [
  
 "Organization_Email" : "ipvolleyballclub@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -42035,7 +42035,7 @@ txt = [
  
 "Advisor" : "Leah Halper",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -42082,7 +42082,7 @@ txt = [
  
 "Organization_Email" : "ispe.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -42231,7 +42231,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/iscs.osu?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -42376,7 +42376,7 @@ txt = [
  
 "_Facebook_Group_Page" : "http://www.facebook.com/#!/pages/OSU-Books-for-Africa/190726760970667",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -42421,7 +42421,7 @@ txt = [
  
 "Advisor" : "Shannon Winnubst",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -42472,7 +42472,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ivbsm",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -42521,7 +42521,7 @@ txt = [
  
 "Organization_Email" : "irigosucom@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -42725,7 +42725,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/italianclubosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -42774,7 +42774,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/245128308925083",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -42878,7 +42878,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_oshaberikai/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -42925,7 +42925,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/OSUJGSO/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -43027,7 +43027,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/jazzclubosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -43072,7 +43072,7 @@ txt = [
  
 "Advisor" : "Steven Glaser",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -43121,7 +43121,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/475795619194915/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -43166,7 +43166,7 @@ txt = [
  
 "Advisor" : "Steven Glaser",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -43211,7 +43211,7 @@ txt = [
  
 "Advisor" : "Matt Goldish",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -43256,7 +43256,7 @@ txt = [
  
 "Advisor" : "Zac Patterson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -43407,7 +43407,7 @@ txt = [
  
 "Advisor" : "Claudia Turro",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -43558,7 +43558,7 @@ txt = [
  
 "Organization_Email" : "thejoshclub1@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -43795,7 +43795,7 @@ txt = [
  
 "Advisor" : "Tai Cornute",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -43893,7 +43893,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/zetanupes",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -43913,7 +43913,7 @@ txt = [
  
 "Time_of_Year_for_New_Membership" : "Contact a member for further information.",
  
-"How_does_a_Prospective_Member_Apply" : "NA",
+"How_does_a_Prospective_Member_Apply" : "",
  
 "Charge_Dues" : "Yes"
 },
@@ -44334,7 +44334,7 @@ txt = [
  
 "Advisor" : "Isaac Weiner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -44432,7 +44432,7 @@ txt = [
  
 "Organization_Email" : "kickboxingosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -44479,7 +44479,7 @@ txt = [
  
 "Organization_Email" : "KGSC@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -44524,7 +44524,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -44569,7 +44569,7 @@ txt = [
  
 "Advisor" : "Tai cornute",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -44616,7 +44616,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/OSUKnittingClub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -44712,7 +44712,7 @@ txt = [
  
 "_Other" : "https://discord.gg/aumjGc9x",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -44759,7 +44759,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/knowltonconservationcorps?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -44851,7 +44851,7 @@ txt = [
  
 "Advisor" : "Isaac Weiner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -44898,7 +44898,7 @@ txt = [
  
 "Organization_Email" : "kidosu2020@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -45047,7 +45047,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ksa_osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45096,7 +45096,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/search/top/?q=osu%20krav%20maga%20club&epa=SEARCH_BOX",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -45143,7 +45143,7 @@ txt = [
  
 "Organization_Email" : "osumoritzlela@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -45192,7 +45192,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://m.facebook.com/ladyleadosu#!/ladyleadosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45243,7 +45243,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.lambdas",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -45384,7 +45384,7 @@ txt = [
  
 "Advisor" : "Stewart Shapiro",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -45431,7 +45431,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/MoritzLLSA/?ref=aymt_homepage_panel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45480,7 +45480,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/lmsaosucom/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45531,7 +45531,7 @@ txt = [
  
 "_Instagram" : "HTTPS://www.Instagram.com/Osulatinxvets",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45584,7 +45584,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/lsa_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45776,7 +45776,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/lso_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -45872,7 +45872,7 @@ txt = [
  
 "Organization_Email" : "llsatosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -45921,7 +45921,7 @@ txt = [
  
 "_Twitter" : "https://www.twitter.com/osucom_lgbtq",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -45966,7 +45966,7 @@ txt = [
  
 "Advisor" : "Ahmed Hosni",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -46015,7 +46015,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/lighthouseatOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -46066,7 +46066,7 @@ txt = [
  
 "_Other" : "https://www.youtube.com/@bootscootinbuckeyes4067",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -46113,7 +46113,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/linksclubosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -46162,7 +46162,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/LionsClubAtOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -46309,7 +46309,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/717662278258269/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -46411,7 +46411,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1808704199449317/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -46458,7 +46458,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/LCMSUOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -46505,7 +46505,7 @@ txt = [
  
 "Organization_Email" : "FCOB-macc@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -46601,7 +46601,7 @@ txt = [
  
 "Organization_Email" : "magliteracyosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -46652,7 +46652,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/mtg_at_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -46946,7 +46946,7 @@ txt = [
  
 "Organization_Email" : "manga.student.association@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -47042,7 +47042,7 @@ txt = [
  
 "Organization_Email" : "MannMuktiOSU@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -47140,7 +47140,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUMHRMC/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -47332,7 +47332,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/meatscienceosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -47432,7 +47432,7 @@ txt = [
  
 "Organization_Email" : "osumedstudentsforlife@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -47477,7 +47477,7 @@ txt = [
  
 "Advisor" : "Allison Rossetti",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -47526,7 +47526,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osumedialiteracyclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -47571,7 +47571,7 @@ txt = [
  
 "Advisor" : "Ellen Deason",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -47667,7 +47667,7 @@ txt = [
  
 "Co-Advisor" : "Amy Pope-Harman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -47763,7 +47763,7 @@ txt = [
  
 "Advisor" : "Maria Clark",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -47857,7 +47857,7 @@ txt = [
  
 "Co-Advisor" : "Amer Rajab",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -47902,7 +47902,7 @@ txt = [
  
 "Advisor" : "Andrew Schamess",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -47947,7 +47947,7 @@ txt = [
  
 "Advisor" : "Julie Niedermier",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -47994,7 +47994,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/msfcosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -48143,7 +48143,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/114553492228788/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -48288,7 +48288,7 @@ txt = [
  
 "Organization_Email" : "menshealthosucom@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -48335,7 +48335,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_powerlifting/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -48382,7 +48382,7 @@ txt = [
  
 "Organization_Email" : "bamns.ohiostate@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -48431,7 +48431,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/mentalhealthmattersosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -48623,7 +48623,7 @@ txt = [
  
 "Advisor" : "Ignacio Corona",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -48668,7 +48668,7 @@ txt = [
  
 "Organization_Email" : "miigss.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -48713,7 +48713,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -48756,7 +48756,7 @@ txt = [
  
 "Advisor" : "Thura Harfi",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -48805,7 +48805,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/702597483630305/about",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -48852,7 +48852,7 @@ txt = [
  
 "Organization_Email" : "osu.maasu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -49036,7 +49036,7 @@ txt = [
  
 "Advisor" : "Lisa Cravens-Brown",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -49132,7 +49132,7 @@ txt = [
  
 "Organization_Email" : "mapforthegap@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -49328,7 +49328,7 @@ txt = [
  
 "Organization_Email" : "More.osu.cas@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -49373,7 +49373,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -49465,7 +49465,7 @@ txt = [
  
 "Advisor" : "Declan Smithies",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -49514,7 +49514,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/845815958786423/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -49559,7 +49559,7 @@ txt = [
  
 "Advisor" : "Christopher Premanandan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -49653,7 +49653,7 @@ txt = [
  
 "Advisor" : "Jeffrey Kuret",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -49753,7 +49753,7 @@ txt = [
  
 "Advisor" : "Craig Burd",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -49947,7 +49947,7 @@ txt = [
  
 "Organization_Email" : "fremont.9@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -50041,7 +50041,7 @@ txt = [
  
 "Advisor" : "Pasha Sergeev",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -50196,7 +50196,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/motorcycleosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -50243,7 +50243,7 @@ txt = [
  
 "Organization_Email" : "krajnak.2@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -50290,7 +50290,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osumountainbiking/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -50392,7 +50392,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/movementvariations/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -50437,7 +50437,7 @@ txt = [
  
 "Advisor" : "Kendra McCamey",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -50484,7 +50484,7 @@ txt = [
  
 "Co-Advisor" : "Madison Eagle",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -50533,7 +50533,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/mcgc.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -50682,7 +50682,7 @@ txt = [
  
 "Advisor" : "Brett Worly",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -50731,7 +50731,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/mmf_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -50778,7 +50778,7 @@ txt = [
  
 "Organization_Email" : "mascats@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -50880,7 +50880,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/435913699949471/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -50978,7 +50978,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/muphsa_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -51131,7 +51131,7 @@ txt = [
  
 "Organization_Email" : "Mwanafunzi@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -51229,7 +51229,7 @@ txt = [
  
 "Advisor" : "Jason Slot",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -51280,7 +51280,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/vrishank.shah.1",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -51329,7 +51329,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/NAfMEOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -51378,7 +51378,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/naacp_osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -51429,7 +51429,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/NABA-OSU-302890236425648/?fref=ts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -51480,7 +51480,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/ohiostatenamla",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -51578,7 +51578,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ncpaosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -51625,7 +51625,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/nlgmoritz/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -51676,7 +51676,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osu_nosa",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -52070,7 +52070,7 @@ txt = [
  
 "Organization_Email" : "perrine.220@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -52121,7 +52121,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/nsslhaosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -52168,7 +52168,7 @@ txt = [
  
 "Organization_Email" : "burns.1042@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -52315,7 +52315,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUNHCC",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -52360,7 +52360,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -52403,7 +52403,7 @@ txt = [
  
 "Advisor" : "Leif Nelin",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -52687,7 +52687,7 @@ txt = [
  
 "Advisor" : "Jonathan Pindrik",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -52738,7 +52738,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/nlypd.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -52834,7 +52834,7 @@ txt = [
  
 "Organization_Email" : "newlifefreeclinic.cbus@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -53032,7 +53032,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/nass.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -53083,7 +53083,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/nssaosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -53130,7 +53130,7 @@ txt = [
  
 "Organization_Email" : "shah.1465@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -53177,7 +53177,7 @@ txt = [
  
 "Organization_Email" : "brock.229@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -53271,7 +53271,7 @@ txt = [
  
 "Organization_Email" : "nsrhohiostate@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -53318,7 +53318,7 @@ txt = [
  
 "Organization_Email" : "osunursingstudentsofcolor@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -53369,7 +53369,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osu_nspire?igshid=YTM0Zjl4ZDI=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -53416,7 +53416,7 @@ txt = [
  
 "Organization_Email" : "raeshawn.stephens@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -53463,7 +53463,7 @@ txt = [
  
 "Organization_Email" : "obgyncop@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -53510,7 +53510,7 @@ txt = [
  
 "Co-Advisor" : "David Nagib",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -53555,7 +53555,7 @@ txt = [
  
 "Advisor" : "JP Maszczak",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -53600,7 +53600,7 @@ txt = [
  
 "Advisor" : "Allison Snow",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -53749,7 +53749,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuours/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -53945,7 +53945,7 @@ txt = [
  
 "Advisor" : "Joe Goodman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -53994,7 +53994,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohnbaslh",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -54039,7 +54039,7 @@ txt = [
  
 "Advisor" : "Paul Rose",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -54086,7 +54086,7 @@ txt = [
  
 "Organization_Email" : "deasonwashere@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -54182,7 +54182,7 @@ txt = [
  
 "Organization_Email" : "osu-jdr@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -54331,7 +54331,7 @@ txt = [
  
 "Organization_Email" : "frazier.505@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -54429,7 +54429,7 @@ txt = [
  
 "Advisor" : "Jill Klimpel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -54531,7 +54531,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1579290202314323/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -54578,7 +54578,7 @@ txt = [
  
 "Organization_Email" : "OSUOVAR@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -54627,7 +54627,7 @@ txt = [
  
 "_Instagram" : "http://www.instagram.com/osuweightlifting",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -54872,7 +54872,7 @@ txt = [
  
 "Advisor" : "Bennet Givens",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -54917,7 +54917,7 @@ txt = [
  
 "Advisor" : "Edmund Folefac",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -55013,7 +55013,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/oneloveosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -55058,7 +55058,7 @@ txt = [
  
 "Advisor" : "Carmen Quatman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -55199,7 +55199,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/smile_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -55246,7 +55246,7 @@ txt = [
  
 "Organization_Email" : "oig.osucom@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -55295,7 +55295,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/oejc_osu?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -55342,7 +55342,7 @@ txt = [
  
 "Organization_Email" : "reano@ece.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -55434,7 +55434,7 @@ txt = [
  
 "Co-Advisor" : "Jennifer Bennett",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -55485,7 +55485,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/orderofthecardinal/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -55581,7 +55581,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/impastasclub?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -55630,7 +55630,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/OASatOSU/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -55677,7 +55677,7 @@ txt = [
  
 "Organization_Email" : "obaptosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -55773,7 +55773,7 @@ txt = [
  
 "Organization_Email" : "osuorigins1@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -55869,7 +55869,7 @@ txt = [
  
 "Organization_Email" : "osuorthointerest@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -55920,7 +55920,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostateocf/?igshid=YWJhMjlhZTc%3D",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -56016,7 +56016,7 @@ txt = [
  
 "Advisor" : "Andrew Rust",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -56063,7 +56063,7 @@ txt = [
  
 "Organization_Email" : "hawley.128@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -56114,7 +56114,7 @@ txt = [
  
 "_Twitter" : "HTTPS://www.Twitter.com/oseuchreclub",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -56259,7 +56259,7 @@ txt = [
  
 "Co-Advisor" : "Garth Essig",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -56310,7 +56310,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/143348982418394/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -56400,7 +56400,7 @@ txt = [
  
 "Advisor" : "Casey Saup",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -56449,7 +56449,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1621898098052554/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -56549,7 +56549,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuovaldogs/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -56596,7 +56596,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1316076238851540",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -56643,7 +56643,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/394298125248578/?ref=share",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -56692,7 +56692,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/450875015621210",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -56739,7 +56739,7 @@ txt = [
  
 "Organization_Email" : "osupharmd2023@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -56788,7 +56788,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/pasaatosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -56839,7 +56839,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/pcrf.osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -56884,7 +56884,7 @@ txt = [
  
 "Advisor" : "Rolla Abu-Arja",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -56937,7 +56937,7 @@ txt = [
  
 "_Twitter" : "http://twitter.com/pwaosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -57029,7 +57029,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/paranormalinvestigations_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -57076,7 +57076,7 @@ txt = [
  
 "Co-Advisor" : "Chanelle Alexander",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -57121,7 +57121,7 @@ txt = [
  
 "Advisor" : "Deb Kegelmeyer",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -57172,7 +57172,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuparksandrec/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -57219,7 +57219,7 @@ txt = [
  
 "Organization_Email" : "pihengageosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -57364,7 +57364,7 @@ txt = [
  
 "Co-Advisor" : "Archana Shenoy",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -57456,7 +57456,7 @@ txt = [
  
 "Organization_Email" : "ohiostateppag@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -57607,7 +57607,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ppinkosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -57652,7 +57652,7 @@ txt = [
  
 "Advisor" : "Julie Parson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -57699,7 +57699,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osupercussionstudio",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -57748,7 +57748,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/769405443194765/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -57844,7 +57844,7 @@ txt = [
  
 "Advisor" : "Purnima Kumar",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -57891,7 +57891,7 @@ txt = [
  
 "Organization_Email" : "a1@pershingriflessociety.org",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -57938,7 +57938,7 @@ txt = [
  
 "Organization_Email" : "psaatosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -57987,7 +57987,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/theperuvianassociation/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -58038,7 +58038,7 @@ txt = [
  
 "_Other" : "https://pgnohiostate.wordpress.com/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -58083,7 +58083,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -58477,7 +58477,7 @@ txt = [
  
 "Co-Advisor" : "Jessica Walpole",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -58732,7 +58732,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/phisigosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -58930,7 +58930,7 @@ txt = [
  
 "Organization_Email" : "p.slamma.jamma@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -59020,7 +59020,7 @@ txt = [
  
 "Advisor" : "Jewel Crasta",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -59171,7 +59171,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/pico_osu?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -59216,7 +59216,7 @@ txt = [
  
 "Advisor" : "David Arnold",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -59263,7 +59263,7 @@ txt = [
  
 "Organization_Email" : "phrosucom@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -59308,7 +59308,7 @@ txt = [
  
 "Advisor" : "Kedryn Baskin",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -59498,7 +59498,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/pikapposu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -59643,7 +59643,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/89961007/SfSGjb8o",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -59688,7 +59688,7 @@ txt = [
  
 "Advisor" : "Nicole Stevens",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -59837,7 +59837,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/PinkOutAtOhioState/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -59888,7 +59888,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/pspack_osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -60041,7 +60041,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/OSUPPGSA",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -60386,7 +60386,7 @@ txt = [
  
 "Advisor" : "John Draper",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -60431,7 +60431,7 @@ txt = [
  
 "Advisor" : "Rebeka Campos-Astorkiza",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -60527,7 +60527,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/osupoultryscience",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -60627,7 +60627,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/POWERSkillsLab",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -60721,7 +60721,7 @@ txt = [
  
 "Advisor" : "Nicholas Stefanik",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -60864,7 +60864,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/premedapamsa.osu?igshid=YmMyMTA2M2Y=",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -60915,7 +60915,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/OhioStatePreMed",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -61013,7 +61013,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/497578646969766/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -61115,7 +61115,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/psmosu?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -61207,7 +61207,7 @@ txt = [
  
 "Advisor" : "Scott McGraw",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -61254,7 +61254,7 @@ txt = [
  
 "Organization_Email" : "moritzpbrg@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -61352,7 +61352,7 @@ txt = [
  
 "Organization_Email" : "plso@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -61397,7 +61397,7 @@ txt = [
  
 "Advisor" : "Anjali Gupta",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -61442,7 +61442,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -61587,7 +61587,7 @@ txt = [
  
 "Advisor" : "Mary Thomas",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -61685,7 +61685,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/ProtectOurBreasts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -61832,7 +61832,7 @@ txt = [
  
 "Advisor" : "Alan Davis",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -61879,7 +61879,7 @@ txt = [
  
 "Organization_Email" : "osupsychsig@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -61930,7 +61930,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/psychologyclubosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -62026,7 +62026,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/osupgsa/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -62371,7 +62371,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/prsa_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -62418,7 +62418,7 @@ txt = [
  
 "Organization_Email" : "punjabiosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -62512,7 +62512,7 @@ txt = [
  
 "Organization_Email" : "osupuzzleology@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -62557,7 +62557,7 @@ txt = [
  
 "Advisor" : "Krystal Taylor",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -62602,7 +62602,7 @@ txt = [
  
 "Advisor" : "Jolynn Pek",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -62696,7 +62696,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Buckeye-Pullers-Quarter-Scale-Design-Team-at-OSU-195411773854687/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -62741,7 +62741,7 @@ txt = [
  
 "Advisor" : "Shannon Winnubst",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -62786,7 +62786,7 @@ txt = [
  
 "Organization_Email" : "thequeerhumorreview@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -62929,7 +62929,7 @@ txt = [
  
 "Organization_Email" : "ohiostateraas@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -63023,7 +63023,7 @@ txt = [
  
 "Advisor" : "Joshua Palmer",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -63068,7 +63068,7 @@ txt = [
  
 "Advisor" : "Amy Kerger",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -63119,7 +63119,7 @@ txt = [
  
 "_Other" : "https://discord.gg/buckeyer6",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -63258,7 +63258,7 @@ txt = [
  
 "Advisor" : "Nandini Trivedi",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -63407,7 +63407,7 @@ txt = [
  
 "Organization_Email" : "justin.mitchell@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -63552,7 +63552,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -63597,7 +63597,7 @@ txt = [
  
 "Advisor" : "Jason Percival",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -63644,7 +63644,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/redsareeosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -63840,7 +63840,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -63885,7 +63885,7 @@ txt = [
  
 "_Facebook_Group_Page" : "http://www.facebook.com/#!/repoweramerica",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -64030,7 +64030,7 @@ txt = [
  
 "Advisor" : "Christa Teston",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -64130,7 +64130,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/OSURGC",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -64277,7 +64277,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.risebwa/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -64324,7 +64324,7 @@ txt = [
  
 "Co-Advisor" : "Zack Mikesell",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -64369,7 +64369,7 @@ txt = [
  
 "Advisor" : "Haijun Su",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -64565,7 +64565,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osurollerskate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -64614,7 +64614,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/romanianclubatOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -64757,7 +64757,7 @@ txt = [
  
 "Organization_Email" : "royaltyosu2016@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -64802,7 +64802,7 @@ txt = [
  
 "Advisor" : "Lori Fireman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -64849,7 +64849,7 @@ txt = [
  
 "Organization_Email" : "ohiostatecubeclub@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -64945,7 +64945,7 @@ txt = [
  
 "Organization_Email" : "harmon.476@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -64990,7 +64990,7 @@ txt = [
  
 "Advisor" : "Mila Shevchenko",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -65094,7 +65094,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Ohio-State-University-Saddle-and-Sirloin-Club-143032765742573/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -65143,7 +65143,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/206138433867808/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -65390,7 +65390,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ssoatosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -65437,7 +65437,7 @@ txt = [
  
 "Organization_Email" : "ohiostateuniversity.oh@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -65486,7 +65486,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/scarletandgracenotes?ref=bookmarks",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -65533,7 +65533,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/invites/contact/?i=jnuif4orkgca&utm_content=pdyrapt",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -65584,7 +65584,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/sganimeosu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -65684,7 +65684,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/SGSR_OSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -65733,7 +65733,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/92064843/KhjDtHR9",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -65784,7 +65784,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/scarletfeverosu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -65829,7 +65829,7 @@ txt = [
  
 "Advisor" : "Rosalee Meyer",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -65972,7 +65972,7 @@ txt = [
  
 "Advisor" : "Jason Coronel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -66603,7 +66603,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/SHADESOSU/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -66752,7 +66752,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osusheros/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -66797,7 +66797,7 @@ txt = [
  
 "Advisor" : "Elliot Klayman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -66946,7 +66946,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Sigma-Alpha-Professional-Agricultural-Sorority-Alpha-Chapter-210154605681832/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -66995,7 +66995,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/SAEOhioTheta/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -67095,7 +67095,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/osusigmachi?fref=ts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -67195,7 +67195,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/sigmaepsilonphi/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -67340,7 +67340,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osugammas/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -67385,7 +67385,7 @@ txt = [
  
 "Advisor" : "Teri Cugliari",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -67522,7 +67522,7 @@ txt = [
  
 "Advisor" : "Jay Gupta",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -67767,7 +67767,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osusimplygreen",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -67963,7 +67963,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/skysportsosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -68010,7 +68010,7 @@ txt = [
  
 "Organization_Email" : "tyshchenko.1@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -68055,7 +68055,7 @@ txt = [
  
 "Advisor" : "Dewey Mann",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -68100,7 +68100,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -68243,7 +68243,7 @@ txt = [
  
 "Co-Advisor" : "Na'eem Allen-Stills",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -68288,7 +68288,7 @@ txt = [
  
 "Advisor" : "Paul Reeder",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -68337,7 +68337,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/snehalaya.osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -68523,7 +68523,7 @@ txt = [
  
 "Organization_Email" : "TheSocialEnterpriseCohort@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -68568,7 +68568,7 @@ txt = [
  
 "Advisor" : "Nikole Prete",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -68662,7 +68662,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/socialreadingclub/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -68758,7 +68758,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/osu.ser",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -68803,7 +68803,7 @@ txt = [
  
 "Advisor" : "Lisa Shabel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -68895,7 +68895,7 @@ txt = [
  
 "Advisor" : "Christopher Pincock",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -68940,7 +68940,7 @@ txt = [
  
 "Advisor" : "Christopher Pincock",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -68985,7 +68985,7 @@ txt = [
  
 "Advisor" : "Lisa Shabel",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -69224,7 +69224,7 @@ txt = [
  
 "Organization_Email" : "society.of.film.enthusiasts@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -69663,7 +69663,7 @@ txt = [
  
 "Advisor" : "Matt Flanigan",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -69761,7 +69761,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/SoSacappellaOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -69808,7 +69808,7 @@ txt = [
  
 "Organization_Email" : "balaji.52@buckeyemail.osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -69859,7 +69859,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/sata.osu/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -69955,7 +69955,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/sppoclub",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -70002,7 +70002,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/Crewi-420796671801302/?modal=admin_todo_tour",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -70092,7 +70092,7 @@ txt = [
  
 "Advisor" : "Steve Beetstra",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -70141,7 +70141,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1059059390819948/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -70241,7 +70241,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/SLP-GO-The-Ohio-State-University-233488433811034/?ref=br_rs",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -70482,7 +70482,7 @@ txt = [
  
 "Advisor" : "Lisa Miller",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -70831,7 +70831,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/buckeyetwirl/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71135,7 +71135,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/dragonphoenixwushuclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71235,7 +71235,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/osuclubfh/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71339,7 +71339,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostateclubgolf/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71494,7 +71494,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/osujj/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71598,7 +71598,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/OSUmensClubLax",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71647,7 +71647,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuclublacrosse/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71804,7 +71804,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostate_et/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71902,7 +71902,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/osuwcbb?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -71951,7 +71951,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OhioStatePB/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -72104,7 +72104,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostatewrfc/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -72455,7 +72455,7 @@ txt = [
  
 "Organization_Email" : "TeamHandballClub@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -72759,7 +72759,7 @@ txt = [
  
 "_Other" : "https://www.tiktok.com/@ohiostatesbclub?_t=8UusWjz4Kqo&_r=1__;!!KGKeukY!xxQd2CzUTBxGGe_BrDMPWUP40xgC7xxt396iXgeiJmv-XnM3EPqsVz-pYZDYfZ2XlGA8GFSWT4oPBVsgccow$",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -73061,7 +73061,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/osuwaterpolo",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -73310,7 +73310,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OhioStateSELA",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -73359,7 +73359,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/SportsSociety",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -73408,7 +73408,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/sportsball_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -73455,7 +73455,7 @@ txt = [
  
 "Co-Advisor" : "Moetiz Samad",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -73502,7 +73502,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/sportscardclubatosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -73549,7 +73549,7 @@ txt = [
  
 "Organization_Email" : "paige.santee@osumc.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -73596,7 +73596,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/223842891134944/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -73692,7 +73692,7 @@ txt = [
  
 "Co-Advisor" : "John Grinstead",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -73739,7 +73739,7 @@ txt = [
  
 "Co-Advisor" : "Ethan Kubatko",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -73788,7 +73788,7 @@ txt = [
  
 "Organization_Email" : "srilankanassociationosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -73884,7 +73884,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_starwarsclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -73929,7 +73929,7 @@ txt = [
  
 "Advisor" : "Matt Goldish",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -73976,7 +73976,7 @@ txt = [
  
 "Co-Advisor" : "Oksana Chkrebtii",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74025,7 +74025,7 @@ txt = [
  
 "Organization_Email" : "steelbridge@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74070,7 +74070,7 @@ txt = [
  
 "Advisor" : "David Eckmann",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74211,7 +74211,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/Streetlightmob_cbus",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -74258,7 +74258,7 @@ txt = [
  
 "Organization_Email" : "seaoo@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74354,7 +74354,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -74552,7 +74552,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/ohiostatesasp/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74599,7 +74599,7 @@ txt = [
  
 "Organization_Email" : "moritz.sba.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -74646,7 +74646,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1463013880628928/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74695,7 +74695,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuaapd/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74740,7 +74740,7 @@ txt = [
  
 "Advisor" : "Michelle Buckland",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74789,7 +74789,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/271172629630768/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74838,7 +74838,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUSCAAFP/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74887,7 +74887,7 @@ txt = [
  
 "_Facebook_Group_Page" : "Https://www.facebook.com/SCACVIMOSU",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -74936,7 +74936,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/493043664164382/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -75181,7 +75181,7 @@ txt = [
  
 "Organization_Email" : "osu.scavds@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -75228,7 +75228,7 @@ txt = [
  
 "_Instagram" : "http://www.instagram.com/ohiostatesnats",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -75375,7 +75375,7 @@ txt = [
  
 "Organization_Email" : "sccp.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -75422,7 +75422,7 @@ txt = [
  
 "Organization_Email" : "miguel.18@buckeyemail.osu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -75467,7 +75467,7 @@ txt = [
  
 "Advisor" : "Caroline El-Khoury",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -75567,7 +75567,7 @@ txt = [
  
 "_Instagram" : "http://www.instagram.com/osustudentfpa",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -75612,7 +75612,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -75710,7 +75710,7 @@ txt = [
  
 "Advisor" : "Chad Hoyle",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -75804,7 +75804,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuceramics",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -75896,7 +75896,7 @@ txt = [
  
 "Organization_Email" : "studentmedia.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Media, Journalism, and Creative Writing",
  
@@ -75941,7 +75941,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.instagram.com/osusnda/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -75990,7 +75990,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/media/set/?set=oa.517278708310466&type=1#!/groups/OSUSNMA/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -76086,7 +76086,7 @@ txt = [
  
 "Advisor" : "Lucia Jenkusky",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -76180,7 +76180,7 @@ txt = [
  
 "Advisor" : "Ruchika Prakash",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -76278,7 +76278,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/spcosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -76325,7 +76325,7 @@ txt = [
  
 "Organization_Email" : "osustudentprintmakers@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -76423,7 +76423,7 @@ txt = [
  
 "Organization_Email" : "osucodspea@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -76627,7 +76627,7 @@ txt = [
  
 "Organization_Email" : "sveccs.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -76776,7 +76776,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/s.a.f.e.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -76874,7 +76874,7 @@ txt = [
  
 "Organization_Email" : "Studentsdemandactionatosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -76978,7 +76978,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUSNAHP/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -77023,7 +77023,7 @@ txt = [
  
 "Advisor" : "Madhumita Dutta",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -77172,7 +77172,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/sjposu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -77329,7 +77329,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/sfr.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -77425,7 +77425,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -77468,7 +77468,7 @@ txt = [
  
 "Advisor" : "Michael Hagenberger",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -77564,7 +77564,7 @@ txt = [
  
 "Co-Advisor" : "John Horack",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -77662,7 +77662,7 @@ txt = [
  
 "_Instagram" : "https://instagram.com/saavnosu?utm_medium=copy_link",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -77762,7 +77762,7 @@ txt = [
  
 "Co-Advisor" : "Jason Payne",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -77811,7 +77811,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/petaxsos",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -77907,7 +77907,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/246310822091305/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -78001,7 +78001,7 @@ txt = [
  
 "Advisor" : "Michael Racke",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -78048,7 +78048,7 @@ txt = [
  
 "Organization_Email" : "Studiodanceosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -78346,7 +78346,7 @@ txt = [
  
 "Advisor" : "David Renton",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -78391,7 +78391,7 @@ txt = [
  
 "Advisor" : "Carmen Quatman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -78436,7 +78436,7 @@ txt = [
  
 "Advisor" : "Ginny Bumgardner",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -78485,7 +78485,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/SurvivorTimeChange/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -78532,7 +78532,7 @@ txt = [
  
 "Organization_Email" : "SustainabilityinMedicine@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -78577,7 +78577,7 @@ txt = [
  
 "Advisor" : "Mark Walter",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -78622,7 +78622,7 @@ txt = [
  
 "Advisor" : "Jeff Suchy",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -78767,7 +78767,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/sweetsmilesosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -78814,7 +78814,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/2200147689/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -78859,7 +78859,7 @@ txt = [
  
 "Advisor" : "Scott Jones",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -78961,7 +78961,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/tasaosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -79012,7 +79012,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.twsa/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -79061,7 +79061,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/873660536666059/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -79208,7 +79208,7 @@ txt = [
  
 "Organization_Email" : "osucomTiM@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -79308,7 +79308,7 @@ txt = [
  
 "_Other" : "https://org.osu.edu/tamilsangam/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -79455,7 +79455,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/tbsbuckchis",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -79602,7 +79602,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/tealweekosu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -79700,7 +79700,7 @@ txt = [
  
 "Organization_Email" : "satija.6@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -79745,7 +79745,7 @@ txt = [
  
 "Advisor" : "Robert Boyd",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -79951,7 +79951,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/tsa.osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -80100,7 +80100,7 @@ txt = [
  
 "Organization_Email" : "osutheriogenologyclub@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -80198,7 +80198,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/thetaxiosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Social Fraternities/Sororities",
  
@@ -80243,7 +80243,7 @@ txt = [
  
 "Advisor" : "Greg Hitzhusen",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Religious/Spiritual",
  
@@ -80394,7 +80394,7 @@ txt = [
  
 "Advisor" : "Facundo Memoli Techera",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -80441,7 +80441,7 @@ txt = [
  
 "Co-Advisor" : "Jennifer Watley",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -80490,7 +80490,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/towersagriculturalhonorary/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Honoraries/Honor Societies",
  
@@ -80537,7 +80537,7 @@ txt = [
  
 "Co-Advisor" : "Dani Rodriguez Pacheco",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Governance Organizations",
  
@@ -80635,7 +80635,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/transracialadoptees/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -80831,7 +80831,7 @@ txt = [
  
 "Organization_Email" : "patrick.322@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -80880,7 +80880,7 @@ txt = [
  
 "Organization_Email" : "Gardner.254@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -80929,7 +80929,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/tsaosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -80980,7 +80980,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/turningpoint_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -81080,7 +81080,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/90240256/LiJ90n6g",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -81123,7 +81123,7 @@ txt = [
  
 "Advisor" : "Alexander Wendt",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -81223,7 +81223,7 @@ txt = [
  
 "_Instagram" : "http://www.instagram.com/ukan_danceclub/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -81272,7 +81272,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu_ukrainiansociety/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -81323,7 +81323,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/10150089076940344/?ref=br_tf",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -81417,7 +81417,7 @@ txt = [
  
 "Advisor" : "Alan Letson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -81925,7 +81925,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.ugcc/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -81974,7 +81974,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osu.unoo/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -82019,7 +82019,7 @@ txt = [
  
 "Advisor" : "Yun Seok Kang",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -82064,7 +82064,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -82256,7 +82256,7 @@ txt = [
  
 "Co-Advisor" : "Vishank Talesara",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -82303,7 +82303,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osulinguistics",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -82401,7 +82401,7 @@ txt = [
  
 "Advisor" : "Susan Massick",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -82452,7 +82452,7 @@ txt = [
  
 "_Other" : "https://groupme.com/join_group/88331607/diG4tEOd",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -82556,7 +82556,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/UBL_Columbus",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -82601,7 +82601,7 @@ txt = [
  
 "Advisor" : "Lorraine Wallace",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -82646,7 +82646,7 @@ txt = [
  
 "Advisor" : "[*] NO DATA PROVIDED",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "[*] NO DATA PROVIDED",
  
@@ -82746,7 +82746,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/untappedshoresohiostate/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -82840,7 +82840,7 @@ txt = [
  
 "Advisor" : "Kaitlin Daniels",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -82889,7 +82889,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/events/714821941966532",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -82934,7 +82934,7 @@ txt = [
  
 "Advisor" : "Dale Anne Davidson",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -82981,7 +82981,7 @@ txt = [
  
 "Co-Advisor" : "Jean Starr",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83028,7 +83028,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/vaw_vet_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -83075,7 +83075,7 @@ txt = [
  
 "Organization_Email" : "vmcosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -83124,7 +83124,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/291527184371929/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -83220,7 +83220,7 @@ txt = [
  
 "Organization_Email" : "osucvm.anesthesiaclub@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83369,7 +83369,7 @@ txt = [
  
 "Organization_Email" : "veterinaryophthalmologyclub.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83420,7 +83420,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSUVPA",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83520,7 +83520,7 @@ txt = [
  
 "Co-Advisor" : "Eric Green",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83565,7 +83565,7 @@ txt = [
  
 "Advisor" : "Selena Tinga",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83612,7 +83612,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/OSU-Veterinary-Surgery-Club-352042048237677/?fref=ts",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -83657,7 +83657,7 @@ txt = [
  
 "Advisor" : "Ben Grier",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Technology",
  
@@ -83751,7 +83751,7 @@ txt = [
  
 "Organization_Email" : "videoessayclubosu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Creative and Performing Arts",
  
@@ -83947,7 +83947,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/osuvinyl/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -84041,7 +84041,7 @@ txt = [
  
 "Advisor" : "Todd Starker",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -84092,7 +84092,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/vaw_osu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Community Service/Service Learning",
  
@@ -84137,7 +84137,7 @@ txt = [
  
 "Advisor" : "Guliz Erdem",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -84284,7 +84284,7 @@ txt = [
  
 "Organization_Email" : "bard.41@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -84335,7 +84335,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/340251913218540/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -84435,7 +84435,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/wellnessadvocacy/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -84537,7 +84537,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/WMIGOSUCoM",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -84635,7 +84635,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/womenfoundersosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -84884,7 +84884,7 @@ txt = [
  
 "Organization_Email" : "women.in.gaming.at.osu@gmail.com",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Special Interest",
  
@@ -84984,7 +84984,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/1752693608353230/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -85080,7 +85080,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/wiseclubosu/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -85127,7 +85127,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/womenofknowlton/?hl=en",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -85174,7 +85174,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuwcbv",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -85223,7 +85223,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuwcg",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -85323,7 +85323,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://www.facebook.com/groups/565814903459718/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -85474,7 +85474,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/osuwthc",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -85523,7 +85523,7 @@ txt = [
  
 "_Facebook_Group_Page" : "https://m.facebook.com/osuwvldi/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -85615,7 +85615,7 @@ txt = [
  
 "Advisor" : "David Toro",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Ethnic/Cultural",
  
@@ -85660,7 +85660,7 @@ txt = [
  
 "Advisor" : "Nina Berman",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Academic/College",
  
@@ -85709,7 +85709,7 @@ txt = [
  
 "_Instagram" : "https://www.instagram.com/ohiostatewc/",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Sports and Recreation",
  
@@ -85848,7 +85848,7 @@ txt = [
  
 "Organization_Email" : "hillel@osu.edu",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
@@ -85901,7 +85901,7 @@ txt = [
  
 "_Twitter" : "https://twitter.com/yafohiostate?s=21",
  
-"Website" : " Not Listed",
+"Website" : "",
  
 "Primary_Type" : "Awareness/Activism",
  
