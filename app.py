@@ -26,7 +26,7 @@ def index():
         random3 = "https://activities.osu.edu/posts/studentorgs/logos/1girl-logo-640x480.png"
            
 
-    return render_template('ind.html', choice=randomC, random1 =random1, random2=random2, random3= random3)
+    return render_template('index.html', choice=randomC, random1 =random1, random2=random2, random3= random3)
 
 @app.route('/list' , methods=['GET'])
 def list():
@@ -50,8 +50,6 @@ def view():
             return '[*] Error no arg ID but we do have ' + str(args)
     else:
         return '[*] Error no args'
-
-
         
 @app.route('/list', methods=['POST']) 
 def listPost(): 
@@ -101,10 +99,9 @@ def listPost():
 
     return render_template('list.html', newLoad=newLoad, day= day, time = time, addit = addit)
 
-
 @app.route('/all')
 def all():
-    return render_template('all.html', load=txt)
+    return render_template('complete.html', load=txt)
 
 
 
