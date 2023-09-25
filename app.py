@@ -1,7 +1,7 @@
 import flask
 from flask import Flask, render_template , request
 import random
-from static.clubs import txt
+from static.clubs import text as txt
 
 app = Flask(__name__)
 
@@ -45,7 +45,7 @@ def view():
             for i in txt:
                 if(i['Clubs_Link'] == link):
                     x = i
-            return render_template('oce.html', newLoad=x)
+            return render_template('view.html', newLoad=x)
         else:
             return '[*] Error no arg ID but we do have ' + str(args)
     else:
@@ -105,4 +105,4 @@ def all():
 
 
 
-app.run(host="0.0.0.0", )
+app.run(host="0.0.0.0", port=3001, debug=True)

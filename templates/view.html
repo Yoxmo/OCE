@@ -1,200 +1,245 @@
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1">
-        <meta name="theme-color" content="#333333">
-    
-        <link rel="shortcut icon" href="/img/favicons/favicon.ico">
-        <link rel="apple-touch-icon" href="/img/favicons/apple-touch-icon.png">
-    
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"></script>
-    
-        <title>OSU Clubs Extended</title>
-    
-      <style>.flex_container {display: flex;position: relative;margin: 0 10px;background: Red;} @media only screen and (max-width: 975px) {.cont{display:block !important;} .tablr{width: 100% !important;} img{width: 100% !important;}} #main {padding: 10px;color: #000;background: #fff;flex-grow: 1;position: relative;max-width: 100%;} </style>
-        
-    </head>      
 
-    <body>
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
-           <a class="navbar-brand" href="#">OCE</a>
-           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-           <span class="navbar-toggler-icon"></span>
-           </button>
-           <div class="collapse navbar-collapse" id="navbarCollapse">
-              <ul class="navbar-nav mr-auto">
-                 <li class="nav-item">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="theme-color" content="#333333">
+
+    <link rel="shortcut icon" href="/img/favicons/favicon.ico">
+    <link rel="apple-touch-icon" href="/img/favicons/apple-touch-icon.png">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"></script>
+
+    <title>OSU Clubs Extended</title>
+
+    <style>
+        .flex_container {
+            display: flex;
+            position: relative;
+            margin: 0 10px;
+            background: Red;
+        }
+
+        @media only screen and (max-width: 975px) {
+            .cont {
+                display: block !important;
+            }
+
+            .tablr {
+                width: 100% !important;
+            }
+
+            img {
+                width: 100% !important;
+            }
+        }
+
+        #main {
+            padding: 10px;
+            color: #000;
+            background: #fff;
+            flex-grow: 1;
+            position: relative;
+            max-width: 100%;
+        }
+    </style>
+
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+        <a class="navbar-brand" href="#">OCE</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
                     <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-                 </li>
-                 <li class="nav-item">
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="/list">List</a>
-                 </li>
-                 <li class="nav-item">
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="/all">All</a>
-                 </li>
-                 
-              </ul>
-              <form class="form-inline " style="margin-bottom: 1;">
-                 <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-                 <button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
-              </form>
-              
-           </div>
-        </nav>
-        
-  
-        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-  
-        <div class="cont" style="display: flex;">
-            <div class="tablr" style="width: 60%;">
-                <div class="title-big pb-3 mb-3" style="display: flex; justify-content: center;">
-                    <h3>{{newLoad['Clubs_Name']}}</h3>
-                </div>
-                <p class="description-p text-muted pe-0 pe-lg-0">
-                    <table class="table table-striped">
-                        <tbody>
-                        {% for k,v in newLoad.items() %}
-                            {% if k == "Status" %}
-                            <tr>
-                            <th scope="row">{{k.replace("_", " ")}}</th>
-                            <td>{{v}}</td>
-                            </tr>
-                            {% endif %}
+                </li>
 
-                            {% if k == "Purpose_Statement" %}
-                            <tr>
-                            <th scope="row">Summary</th>
-                            <td>{{v}}</td>
-                            </tr>
-                            {% endif %}
+            </ul>
+            <form class="form-inline " style="margin-bottom: 1;">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                <button class="btn btn-success my-2 my-sm-0" type="submit">Search</button>
+            </form>
 
-
-                            {% if k == "Meeting_Time_and_Place" %}
-                            <tr>
-                            <th scope="row"> Meetings </th>
-                            <td>{{v}}</td>
-                            </tr>
-                            {% endif %}
-
-
-                            {% if k == "Primary_Leader" %}  
-                            <tr>
-                            <th scope="row">          
-                                President
-                                </th>
-                                <td>
-                                {{v}}
-                                </td>
-                            </tr>
-                            {% endif %}
-
-                            {% if k == "Secondary_Leader" %}  
-                            <tr>
-                            <th scope="row">          
-                                Vice President
-                                </th>
-                                <td>
-                                {{v}}
-                                </td>
-                            </tr>
-                            {% endif %}
-
-                            {% if k == "Treasurer_Leader" %}  
-                            <tr>
-                            <th scope="row">          
-                                Treasurer
-                                </th>
-                                <td>
-                                {{v}}
-                                </td>
-                            </tr>
-                            {% endif %}
-
-                            {% if k == "Advisor" %}  
-                            <tr>
-                            <th scope="row">          
-                                Advisor
-                                </th>
-                                <td>
-                                {{v}}
-                                </td>
-                            </tr>
-                            {% endif %}
-
-
-                            {% if k == "How_does_a_Prospective_Member_Apply" %}  
-                            <tr>
-                            <th scope="row">          
-                                Application
-                                </th>
-                                <td>
-                                {{v}}
-                                </td>
-                            </tr>
-                            {% endif %}
-
-
-                            {% if k == "Charge_Dues" %}  
-                            <tr>
-                            <th scope="row">          
-                                Fees
-                                </th>
-                                <td>
-                                {{v}}
-                                </td>
-                            </tr>
-                            {% endif %}
-
-                            {% if k == "Organization_Email" %}  
-                            <tr>
-                            <th scope="row">          
-                                Email
-                                </th>
-                                <td>
-                               <a href="mailto:{{v}}"> {{v}} </a>
-                                </td>
-                            </tr>
-                            {% endif %}
-
-                            {% if k == "_Instagram" %}  
-                            <tr>
-                            <th scope="row">          
-                                Instagram
-                                </th>
-                                <td>
-                               <a href="mailto:{{v}}"> {{v}} </a>
-                                </td>
-                            </tr>
-                            {% endif %}
-
-
-                        {% endfor %}
-                        </tbody>
-                    </table>
-                </p>
-                <center>
-                    <div class="sosmed-horizontal pt-3 pb-3">
-
-                        {% if newLoad["_Facebook_Group_Page"] %} <a onclick='window.open(`{{newLoad["_Facebook_Group_Page"]}}`)'><i class="fa fa-2x fa-facebook" style="color: gray; width: 50;"></i></a> {% endif %}
-                        {% if newLoad["_Instagram"] %} <a onclick='window.open(`{{newLoad["_Instagram"]}}`)'><i class="fa fa-2x fa-instagram" style="color: gray; width: 50;"></i></a>  {% endif %}
-                        {% if newLoad["Website"] %} 
-                            <a onclick='window.open(`{{newLoad["Website"]}}`)'><i class="fa fa-2x fa-link" style="color: gray; width: 50;"></i></a> 
-                        {% else%}
-                            <a onclick='window.open(`{{newLoad["Clubs_Link"]}}`)'><i class="fa fa-2x fa-link" style="color: gray; width: 50;"></i></a> 
-                        {% endif %}
-                        {% if newLoad["Organization_Email"] %}  <a onclick='window.open(`mailto:{{newLoad["Organization_Email"]}}`)'><i class="fa fa-2x fa-envelope" style="color: gray; width: 50;"></i></a> {% endif %}
-                    </div>
-                </center>
-
-            </div>
-            <img src="{{newLoad['Clubs_img']}}" alt="potoabout" style="height: 600px; width: 40%;">
         </div>
-  
-        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-  
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
- 
-  </body>
+    </nav>
+
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <div class="cont" style="display: flex;">
+        <div class="tablr" style="width: 60%;">
+            <div class="title-big pb-3 mb-3" style="display: flex; justify-content: center;">
+                <h3>{{newLoad['Clubs_Name']}}</h3>
+            </div>
+            <p class="description-p text-muted pe-0 pe-lg-0">
+            <table class="table table-striped">
+                <tbody>
+                    {% for k,v in newLoad.items() %}
+                    <!-- {{k , v}} -->
+
+                    {% if k == "Status" %}
+                    <tr>
+                        <th scope="row">{{k.replace("_", " ")}}</th>
+                        <td>{{v}}</td>
+                    </tr>
+                    {% endif %}
+
+                    {% if k == "Purpose_Statement" %}
+                    <tr>
+                        <th scope="row">Summary</th>
+                        <td>{{v}}</td>
+                    </tr>
+                    {% endif %}
+
+
+                    {% if k == "Meeting_Time_and_Place" %}
+                    <tr>
+                        <th scope="row"> Meetings </th>
+                        <td>{{v}}</td>
+                    </tr>
+                    {% endif %}
+
+
+                    {% if k == "Primary_Leader:" %}
+                    <tr>
+                        <th scope="row">
+                            President
+                        </th>
+                        <td>
+                            {{v}}
+                        </td>
+                    </tr>
+                    {% endif %}
+
+                    {% if k == "Secondary_Leader:" %}
+                    <tr>
+                        <th scope="row">
+                            Vice President
+                        </th>
+                        <td>
+                            {{v}}
+                        </td>
+                    </tr>
+                    {% endif %}
+
+                    {% if k == "Treasurer_Leader:" %}
+                    <tr>
+                        <th scope="row">
+                            Treasurer
+                        </th>
+                        <td>
+                            {{v}}
+                        </td>
+                    </tr>
+                    {% endif %}
+
+                    {% if k == "Advisor:" %}
+                    <tr>
+                        <th scope="row">
+                            Advisor
+                        </th>
+                        <td>
+                            {{v}}
+                        </td>
+                    </tr>
+                    {% endif %}
+
+
+                    {% if k == "How_does_a_Prospective_Member_Apply:" %}
+                    <tr>
+                        <th scope="row">
+                            Application
+                        </th>
+                        <td>
+                            {{v}}
+                        </td>
+                    </tr>
+                    {% endif %}
+
+
+                    {% if k == "Charge_Dues:" %}
+                    <tr>
+                        <th scope="row">
+                            Fees
+                        </th>
+                        <td>
+                            {{v}}
+                        </td>
+                    </tr>
+                    {% endif %}
+
+                    {% if k == "Organization_Email:" %}
+                    <tr>
+                        <th scope="row">
+                            Email
+                        </th>
+                        <td>
+                            <a href="mailto:{{v}}"> {{v}} </a>
+                        </td>
+                    </tr>
+                    {% endif %}
+
+                    {% if k == "Instagram::" %}
+                    <tr>
+                        <th scope="row">
+                            Instagram
+                        </th>
+                        <td>
+                            <a href="mailto:{{v}}"> {{v}} </a>
+                        </td>
+                    </tr>
+                    {% endif %}
+
+
+                    {% endfor %}
+                </tbody>
+            </table>
+            </p>
+            <center>
+                <div class="sosmed-horizontal pt-3 pb-3">
+
+                    {% if newLoad["Facebook_Group_Page:"] %} <a
+                        onclick='window.open(`{{newLoad["Facebook_Group_Page:"]}}`)'><i class="fa fa-2x fa-facebook"
+                            style="color: gray; width: 50;"></i></a> {% endif %}
+                    {% if newLoad["Instagram:"] %} <a onclick='window.open(`{{newLoad["Instagram:"]}}`)'><i
+                            class="fa fa-2x fa-instagram" style="color: gray; width: 50;"></i></a> {% endif %}
+                    {% if newLoad["Website:"] %}
+                    <a onclick='window.open(`{{newLoad["Website:"]}}`)'><i class="fa fa-2x fa-link"
+                            style="color: gray; width: 50;"></i></a>
+                    {% else%}
+                    <a onclick='window.open(`{{newLoad["Clubs_Link"]}}`)'><i class="fa fa-2x fa-link"
+                            style="color: gray; width: 50;"></i></a>
+                    {% endif %}
+                    {% if newLoad["Organization_Email"] %} <a
+                        onclick='window.open(`mailto:{{newLoad["Organization_Email"]}}`)'><i
+                            class="fa fa-2x fa-envelope" style="color: gray; width: 50;"></i></a> {% endif %}
+                </div>
+            </center>
+
+        </div>
+        <img src="{{newLoad['Clubs_img']}}" alt="potoabout" style="height: 600px; width: 40%;">
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+</body>
 
 </html>
